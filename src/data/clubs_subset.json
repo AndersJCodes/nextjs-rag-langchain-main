@@ -1,0 +1,6069 @@
+[
+  {
+    "id": 20,
+    "name": "A.R.M. Chapter 40",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [["Sundsbruk"], ["Finsta"], ["Birsta"], ["Ljustadalen"]],
+    "category": ["Social förening"],
+    "activity": ["Föreläsningsverksamhet", "Social verksamhet", "Nykterhet"]
+  },
+  {
+    "id": 9,
+    "name": "Aikido Sundsvall Meiseikai IF",
+    "url": "https://aikidosundsvall.se/",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Östermalm"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Aikido"]
+  },
+  {
+    "id": 10,
+    "name": "Aktiva Seniorer i Sundsvall",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Centrum"]],
+    "category": ["Pensionärsförening"],
+    "activity": ["Pensionärsverksamhet"]
+  },
+  {
+    "id": 498,
+    "name": "Allas aktivitetsförening i Matfors",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 11,
+    "name": "Almamia Lilla Scenen",
+    "url": "www.almamia.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Nacksta"], ["Sallyhill"], ["Midälva"]],
+    "category": ["Kulturförening"],
+    "activity": [
+      "Arrangör barnkultur",
+      "Arrangör konsert",
+      "Musik",
+      "Musik - ungdom"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Alnö Aikidoklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [["Alnö"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Aikido"]
+  },
+  {
+    "id": 13,
+    "name": "Alnö Badminton Club",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Alnö"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Badminton"]
+  },
+  {
+    "id": 14,
+    "name": "Alnö Hembygdsförening",
+    "url": "www.hembygd.se/alno",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Alnö"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": [
+      "Historisk/kulturhistorisk verksamhet",
+      "Kulturmiljövård",
+      "Museiverksamhet",
+      "Hembygdsverksamhet"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Alnö Idrottsförening",
+    "url": "www.alnoif.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Alnö"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Fotboll"]
+  },
+  {
+    "id": 16,
+    "name": "Alnö Raceteam",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Idrottsförening"],
+    "activity": []
+  },
+  {
+    "id": 17,
+    "name": "Alnö Scoutkår",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Alnö"]],
+    "category": ["Förening med samlingslokal", "Fritidsförening"],
+    "activity": ["Scouting"]
+  },
+  {
+    "id": 18,
+    "name": "Alnö Skidklubb (Alnö SK)",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Alnö"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Längdskidåkning", "Löpning", "Rullskidor"]
+  },
+  {
+    "id": 19,
+    "name": "Alnö Slöjdförening",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Kulturförening"],
+    "activity": []
+  },
+  {
+    "id": 3290,
+    "name": "Ankarsvik Ideella förening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Alnö"]],
+    "category": ["Fritidsförening"],
+    "activity": ["Ishockey"]
+  },
+  {
+    "id": 3408,
+    "name": "Attention Sundsvall-Timrå",
+    "url": "www.sundsvall-timra.attention.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Patient- & funktionshindersförening"],
+    "activity": [
+      "Social verksamhet",
+      "Övrigt",
+      "Patient och funktionshinders frågor"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Attmars Fiskevårdsområdesförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Lucksta"], ["Attmar"]],
+    "category": ["Fritidsförening"],
+    "activity": ["Fiske", "Fiskevård"]
+  },
+  {
+    "id": 22,
+    "name": "Attmars Hembygdsförening",
+    "url": "www.hembygd.se>attmar",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Lucksta"], ["Attmar"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": ["Lokaluthyrning", "Hembygdsverksamhet"]
+  },
+  {
+    "id": 23,
+    "name": "Barnens Rätt i Samhället (Bris Nord)",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Social förening"],
+    "activity": ["Jämställdhets och jämlikhetsarbete", "Social verksamhet"]
+  },
+  {
+    "id": 386,
+    "name": "Bergsjö IF",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 25,
+    "name": "Bergsåkers Badmintonklubb",
+    "url": "www.bbmk.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Granlo"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Badminton"]
+  },
+  {
+    "id": 26,
+    "name": "Bergsåkers Pensionärers Biljardklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Bergsåker"], ["Lillhällom"], ["Österro"]],
+    "category": ["Pensionärsförening"],
+    "activity": ["Biljard"]
+  },
+  {
+    "id": 27,
+    "name": "Birsta Skidklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12"],
+    "area": [["Sundsbruk"], ["Finsta"], ["Birsta"], ["Ljustadalen"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Dans barn", "Gymnastik", "Längdskidåkning"]
+  },
+  {
+    "id": 28,
+    "name": "Björnmyrens Odlingslottsförening",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Fritidsförening"],
+    "activity": []
+  },
+  {
+    "id": 29,
+    "name": "BK Matforsbrottarna",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20"],
+    "area": [["Matfors"], ["Vattjom"], ["Tuna"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Övrigt"]
+  },
+  {
+    "id": 3555,
+    "name": "Blodsjukas Förening i Västernorrland",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Centrum"]],
+    "category": ["Patient- & funktionshindersförening"],
+    "activity": ["Patient och funktionshinders frågor"]
+  },
+  {
+    "id": 30,
+    "name": "Boda Byggnadsförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Liden"], ["Holm"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": ["Lokaluthyrning", "Hembygdsverksamhet"]
+  },
+  {
+    "id": 31,
+    "name": "Bogg-Hans Rike",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Kulturförening"],
+    "activity": [
+      "Föreläsningsverksamhet",
+      "Historisk/kulturhistorisk verksamhet",
+      "Hembygdsverksamhet"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Bolagsverkets Idrottsförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 36,
+    "name": "Bredsands Skol-IF",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20"],
+    "area": [["Bredsand"], ["Stockvik"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Övrigt"]
+  },
+  {
+    "id": 1696,
+    "name": "Brf Blåhajen",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 37,
+    "name": "Bridgeföreningen Centrum",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [["Centrum"]],
+    "category": ["Pensionärsförening"],
+    "activity": ["Bridge"]
+  },
+  {
+    "id": 38,
+    "name": "Bridgeklubben Freja (BK Freja)",
+    "url": "BK Freja har ingen egen webbadress utan finns med på Svenska Bridgeförbundets hemsida: https://www.svenskbridge.se och där söka distrikt Medelpad och klubb BK Freja",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Centrum"]],
+    "category": ["Pensionärsförening"],
+    "activity": ["Bridge"]
+  },
+  {
+    "id": 39,
+    "name": "Bröstcancerföreningen Olivia Medelpad",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Centrum"]],
+    "category": ["Patient- & funktionshindersförening"],
+    "activity": ["Övrigt"]
+  },
+  {
+    "id": 40,
+    "name": "Bygdegårdsföreningen Böljan",
+    "url": "https://xn--bgfbljan-q4a.hemsida24.se/",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Förening med samlingslokal"],
+    "activity": ["Lokaluthyrning"]
+  },
+  {
+    "id": 41,
+    "name": "Byggnadsföreningen TOR u.p.a",
+    "url": "www.torslokal.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Alnö"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": [
+      "Historisk/kulturhistorisk verksamhet",
+      "Social verksamhet",
+      "Lokaluthyrning"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Böle bygdegårds- och idrottsförening",
+    "url": "bolegarden.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Sidsjö"], ["Böle"], ["Mårtensro"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": [
+      "Arrangör marknad",
+      "Arrangör konsert",
+      "Basket",
+      "Fotboll",
+      "Scouting",
+      "Motion",
+      "Lokaluthyrning",
+      "Tennis"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "AFC Ariana Footballclub Sundsvall",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Idrottsförening"],
+    "activity": ["Futsal", "Fotboll"]
+  },
+  {
+    "id": 44,
+    "name": "Böloms Kapells Intresseförening",
+    "url": "http://bolom.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Lucksta"], ["Attmar"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": ["Musik", "Övrigt"]
+  },
+  {
+    "id": 45,
+    "name": "City Pensionärsbridgeförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Pensionärsförening"],
+    "activity": []
+  },
+  {
+    "id": 47,
+    "name": "Club Deströyer",
+    "url": "https://www.facebook.com/clubdestroyer",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [["Centrum"]],
+    "category": ["Kulturförening"],
+    "activity": ["Arrangör konsert"]
+  },
+  {
+    "id": 48,
+    "name": "Cruisers Sundsvall",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Fritidsförening"],
+    "activity": []
+  },
+  {
+    "id": 49,
+    "name": "Dataföreningen Sundsvall",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Fritidsförening"],
+    "activity": []
+  },
+  {
+    "id": 50,
+    "name": "DHR Sundsvall-Timrå",
+    "url": "https://www.facebook.com/DHRsundsvalltimra",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Centrum"]],
+    "category": ["Patient- & funktionshindersförening"],
+    "activity": ["Patient och funktionshinders frågor"]
+  },
+  {
+    "id": 51,
+    "name": "Djurskyddet Sundsvall",
+    "url": "djurskyddetsundsvall.com",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Fritidsförening"],
+    "activity": []
+  },
+  {
+    "id": 53,
+    "name": "Drakbrytarna IF Armbrytningsklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Alnö"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Armbrytning"]
+  },
+  {
+    "id": 54,
+    "name": "Dykets Intresseförening",
+    "url": "www.dyket.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Essvik"], ["Skottsund"], ["Nyland"], ["Juniskär"]],
+    "category": ["Fritidsförening"],
+    "activity": [
+      "Arrangör marknad",
+      "Bordtennis",
+      "Basket",
+      "Bangolf",
+      "Fotboll",
+      "Padel",
+      "Boule",
+      "Fiske",
+      "Social verksamhet",
+      "Vandring",
+      "Fiskevård",
+      "Styrketräning",
+      "Motion",
+      "Cykelsport",
+      "Innebandy",
+      "Friluftsverksamhet",
+      "Gymnastik",
+      "Lokaluthyrning",
+      "Trampolin",
+      "Skoter",
+      "Längdskidåkning",
+      "Simning",
+      "Natur och miljö",
+      "Pensionärsverksamhet"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Ede Byalag",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Stöde"], ["Fanbyn"], ["Viskan"], ["Nedansjö"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": ["Lokaluthyrning", "Vävning", "Övrigt"]
+  },
+  {
+    "id": 3999,
+    "name": "Enköping SK Hockey",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 56,
+    "name": "Eritreanska föreningen i Sundsvall",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Fritidsförening"],
+    "activity": []
+  },
+  {
+    "id": 57,
+    "name": "Essviks AIF",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Kvissleby"], ["Nolby"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Fotboll"]
+  },
+  {
+    "id": 58,
+    "name": "Fancy Cheer Sundsvall",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20"],
+    "area": [["Centrum"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Cheerleading"]
+  },
+  {
+    "id": 59,
+    "name": "FBC Nordic Sundsvall",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20"],
+    "area": [["Matfors"], ["Vattjom"], ["Tuna"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Innebandy"]
+  },
+  {
+    "id": 61,
+    "name": "FC Norr United",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Idrottsförening"],
+    "activity": []
+  },
+  {
+    "id": 62,
+    "name": "Finska Föreningen i Sundsvall",
+    "url": "finskasuomisundsvall.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Skönsmon"]],
+    "category": ["Kulturförening", "Fritidsförening"],
+    "activity": [
+      "Arrangör marknad",
+      "Arrangör barnkultur",
+      "Arrangör studieverksamhet",
+      "Dans folkdans",
+      "Föreläsningsverksamhet",
+      "Mångkulturell verksamhet",
+      "Folkbildning",
+      "Filmvisning",
+      "Musik",
+      "Fiske",
+      "Historisk/kulturhistorisk verksamhet",
+      "Social verksamhet",
+      "Konsthantverk",
+      "Motion",
+      "Konstverksamhet",
+      "Språk",
+      "Integration",
+      "Lokaluthyrning",
+      "Odling, växter",
+      "Hälsa och kost",
+      "Litteratur",
+      "Trädgård",
+      "Pensionärsverksamhet",
+      "Dans kurser",
+      "Hantverk"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Fobo Sundsvall",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Fritidsförening"],
+    "activity": ["Odling, växter"]
+  },
+  {
+    "id": 3590,
+    "name": "Folkkampanjen mot kärnkraft och kärnvapen i Sundsvall",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Centrum"]],
+    "category": ["Fritidsförening"],
+    "activity": [
+      "Föreläsningsverksamhet",
+      "Folkbildning",
+      "Fredsarbete",
+      "Studieverksamhet"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Folkuniversitetet",
+    "url": "https://www.folkuniversitetet.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Studieförbund"],
+    "activity": [
+      "Arrangör ungdomskultur",
+      "Arrangör barnkultur",
+      "Arrangör teater",
+      "Arrangör utställning",
+      "Arrangör konsert",
+      "Arrangör studieverksamhet",
+      "Arrangör föreläsning",
+      "Dans folkdans",
+      "Folkbildning",
+      "Kör ungdom",
+      "Historisk/kulturhistorisk verksamhet",
+      "Studiecirklar",
+      "Forskning",
+      "Konstverksamhet",
+      "Integration",
+      "Studieverksamhet",
+      "Pensionärsverksamhet",
+      "Kurser",
+      "Hembygdsverksamhet",
+      "Hantverk"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Forza Nacksta",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [["Nacksta"], ["Sallyhill"], ["Midälva"]],
+    "category": ["Fritidsförening"],
+    "activity": ["Social verksamhet"]
+  },
+  {
+    "id": 66,
+    "name": "Framtidstanken",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Kulturförening"],
+    "activity": []
+  },
+  {
+    "id": 67,
+    "name": "Frejakören",
+    "url": "https://www.spfseniorerna.se/distrikt/vasternorrlandsdistriktet/foreningslista/freja/aktiviteter/frejakoren/",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Centrum"]],
+    "category": ["Pensionärsförening"],
+    "activity": ["Körverksamhet"]
+  },
+  {
+    "id": 2627,
+    "name": "Frida Stéenhoffsällskapet",
+    "url": "https://www.facebook.com/search/top?q=frida%20st%C3%A9enhoff-s%C3%A4llskapet",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Centrum"]],
+    "category": ["Kulturförening"],
+    "activity": ["Litteratur"]
+  },
+  {
+    "id": 68,
+    "name": "Friluftsfrämjandet Njurunda lokalavdelning",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Fritidsförening"],
+    "activity": [
+      "Alpint",
+      "Folkbildning",
+      "Mulle och knatteverksamhet",
+      "Vandring",
+      "Motion",
+      "Friluftsverksamhet",
+      "Kanot",
+      "Stavgång",
+      "Längdskidåkning",
+      "Natur och miljö",
+      "Övrigt",
+      "Snowbord"
+    ]
+  },
+  {
+    "id": 2689,
+    "name": "Fritidsföreningen Permobil",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 4193,
+    "name": "Fränsta IK",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 69,
+    "name": "FUB Sundsvall-Timrå",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [["Granloholm"]],
+    "category": ["Patient- & funktionshindersförening"],
+    "activity": ["Social verksamhet", "Övrigt"]
+  },
+  {
+    "id": 70,
+    "name": "Föreningen Curlingalliansen i Sundsvall",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Idrottsförening"],
+    "activity": ["Curling"]
+  },
+  {
+    "id": 71,
+    "name": "Föreningen Finlandssvenskar Medelpad",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Skönsmon"]],
+    "category": ["Pensionärsförening"],
+    "activity": ["Övrigt"]
+  },
+  {
+    "id": 3936,
+    "name": "Föreningen Frifolk",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [["Centrum"]],
+    "category": ["Kulturförening"],
+    "activity": ["Arrangör konsert", "Arrangör studieverksamhet"]
+  },
+  {
+    "id": 73,
+    "name": "Föreningen Klingstagården",
+    "url": "www.klingstagarden.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Klingsta"], ["Allsta"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": ["Övrigt", "Hembygdsverksamhet"]
+  },
+  {
+    "id": 1601,
+    "name": "Föreningen Nacksta Kultur",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Nacksta"], ["Sallyhill"], ["Midälva"]],
+    "category": ["Kulturförening"],
+    "activity": [
+      "Dans ungdom",
+      "Mångkulturell verksamhet",
+      "Dans barn",
+      "Musik",
+      "Social verksamhet",
+      "Radio",
+      "Studiecirklar",
+      "Teater barn",
+      "Musik folkmusik",
+      "Kör barn",
+      "Ungdomsmusik",
+      "Dans kurser"
+    ]
+  },
+  {
+    "id": 1814,
+    "name": "Föreningen Nackstabadet",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Nacksta"], ["Sallyhill"], ["Midälva"]],
+    "category": ["Fritidsförening", "Social förening"],
+    "activity": ["Simning"]
+  },
+  {
+    "id": 74,
+    "name": "Föreningen Norden",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Kulturförening"],
+    "activity": []
+  },
+  {
+    "id": 75,
+    "name": "Föreningen Nätverket Vileda",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [["Sundsbruk"], ["Finsta"], ["Birsta"], ["Ljustadalen"]],
+    "category": ["Social förening"],
+    "activity": ["Arrangör föreläsning", "Social verksamhet", "Nykterhet"]
+  },
+  {
+    "id": 3436,
+    "name": "Föreningen SKA Gyllengran",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 1794,
+    "name": "Föreningen Soul Rebels Sundsvall",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": ["Dans ungdom"]
+  },
+  {
+    "id": 76,
+    "name": "Föreningen StödeKult",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Stöde"], ["Fanbyn"], ["Viskan"], ["Nedansjö"]],
+    "category": ["Kulturförening"],
+    "activity": [
+      "Arrangör ungdomskultur",
+      "Arrangör teater",
+      "Arrangör konsert",
+      "Arrangör föreläsning"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Föreningen Sundsvalls Brandkår",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [["Centrum"]],
+    "category": ["Förening med samlingslokal", "Kulturförening"],
+    "activity": [
+      "Arrangör barnkultur",
+      "Arrangör föreläsning",
+      "Folkbildning",
+      "Historisk/kulturhistorisk verksamhet",
+      "Veteranfordon",
+      "Övrigt"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Föreningen Svartviksspelet",
+    "url": "www.svartviksspelet.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Svartvik"], ["Vapelnäs"], ["Hemmanet"]],
+    "category": ["Kulturförening"],
+    "activity": ["Teater amatör"]
+  },
+  {
+    "id": 79,
+    "name": "Föreningsarkivet Västernorrland",
+    "url": "http://www.foreningsarkivet.se/",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Centrum"]],
+    "category": ["Kulturförening"],
+    "activity": ["Arkiv"]
+  },
+  {
+    "id": 80,
+    "name": "Föreningssamverkan",
+    "url": "www.foreningssamverkan.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Matfors"], ["Vattjom"], ["Tuna"]],
+    "category": [
+      "Förening med samlingslokal",
+      "Kulturförening",
+      "Fritidsförening"
+    ],
+    "activity": [
+      "Arrangör ungdomskultur",
+      "Arrangör barnkultur",
+      "Arrangör utställning",
+      "Arrangör föreläsning",
+      "Mångkulturell verksamhet",
+      "Jämställdhets och jämlikhetsarbete",
+      "Historisk/kulturhistorisk verksamhet",
+      "Social verksamhet",
+      "Arbetslivsmuseum",
+      "Konstverksamhet",
+      "Friluftsverksamhet",
+      "Integration",
+      "Natur och miljö",
+      "Pensionärsverksamhet"
+    ]
+  },
+  {
+    "id": 4601,
+    "name": "Försvarsutbildarna Sundsvall",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 81,
+    "name": "GF Njurunda Gymmix",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Idrottsförening"],
+    "activity": []
+  },
+  {
+    "id": 82,
+    "name": "GIF Sundsvall",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Sundsbruk"], ["Finsta"], ["Birsta"], ["Ljustadalen"]],
+    "category": ["Idrottsförening"],
+    "activity": [
+      "Arrangör ungdomskultur",
+      "Arrangör marknad",
+      "Arrangör utställning",
+      "Arrangör barnkultur",
+      "Arrangör konsert",
+      "Arrangör studieverksamhet",
+      "Arrangör föreläsning",
+      "Futsal",
+      "Föreläsningsverksamhet",
+      "Mångkulturell verksamhet",
+      "Folkbildning",
+      "Jämställdhets och jämlikhetsarbete",
+      "Fotboll",
+      "Social verksamhet",
+      "Vandring",
+      "Humanitär verksamhet",
+      "Motion",
+      "Språk",
+      "E-sport",
+      "Integration",
+      "Odling, växter",
+      "Hälsa och kost",
+      "Studieverksamhet",
+      "Parasport",
+      "Simning",
+      "Övrigt",
+      "Trädgård",
+      "Yoga"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Gimåfors Bygdegårdsförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Liden"], ["Holm"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": [
+      "Arrangör marknad",
+      "Bordtennis",
+      "Arrangör utställning",
+      "Arrangör konsert",
+      "Arrangör studieverksamhet",
+      "Arrangör föreläsning",
+      "Fågelskådning",
+      "Filmvisning",
+      "Social verksamhet",
+      "Konsthantverk",
+      "Motion",
+      "Vävning",
+      "Hantverk"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Glaukomföreningen Västernorrland",
+    "url": "Glaukomforbundet.se/region/vasternorrland",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Centrum"]],
+    "category": ["Patient- & funktionshindersförening"],
+    "activity": [
+      "Föreläsningsverksamhet",
+      "Motion",
+      "Övrigt",
+      "Kurser",
+      "Patient och funktionshinders frågor"
+    ]
+  },
+  {
+    "id": 2310,
+    "name": "Glimåvägens vägsamfällighet",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 85,
+    "name": "Gryttjens Bygdegårdsförening",
+    "url": "https://www.olliam.se/GryttjensBygdegard/",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Matfors"], ["Vattjom"], ["Tuna"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": ["Social verksamhet", "Övrigt"]
+  },
+  {
+    "id": 396,
+    "name": "Gymnastikförbundet Mitt",
+    "url": "https://www.gymnastik.se/regioner/region-mitt",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [],
+    "category": ["Distriktsförbund"],
+    "activity": ["Gymnastik", "Kurser"]
+  },
+  {
+    "id": 87,
+    "name": "Halliwickklubben Sjöstjärnan",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Matfors"], ["Vattjom"], ["Tuna"]],
+    "category": ["Patient- & funktionshindersförening"],
+    "activity": ["Simning"]
+  },
+  {
+    "id": 88,
+    "name": "Handikappidrottsföreningen Kämparna",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Patient- & funktionshindersförening"],
+    "activity": []
+  },
+  {
+    "id": 89,
+    "name": "Harvs Bygdegårdsförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Lucksta"], ["Attmar"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": ["Arrangör marknad", "Arrangör studieverksamhet", "Övrigt"]
+  },
+  {
+    "id": 90,
+    "name": "Hassels IF",
+    "url": "laget.se/HasselsIF",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Matfors"], ["Vattjom"], ["Tuna"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Bordtennis", "Fotboll", "Längdskidåkning"]
+  },
+  {
+    "id": 92,
+    "name": "Heffnersklubban BK",
+    "url": "www.heffnersklubban.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Skönsberg"], ["Korsta"], ["Petersvik"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Futsal", "Fotboll"]
+  },
+  {
+    "id": 373,
+    "name": "Hjördis Schymbergs Sällskapet",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [["Alnö"]],
+    "category": ["Kulturförening"],
+    "activity": ["Musik"]
+  },
+  {
+    "id": 93,
+    "name": "Holmbygdens Utveckling",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Liden"], ["Holm"]],
+    "category": ["Förening med samlingslokal", "Idrottsförening"],
+    "activity": [
+      "Arrangör marknad",
+      "Bordtennis",
+      "Arrangör utställning",
+      "Boule",
+      "Ishockey",
+      "Historisk/kulturhistorisk verksamhet",
+      "Skridskosport",
+      "Innebandy",
+      "Gymnastik",
+      "Hälsa och kost",
+      "Övrigt",
+      "Yoga",
+      "Hembygdsverksamhet"
+    ]
+  },
+  {
+    "id": 2726,
+    "name": "Holms Fiskevårdsområdesförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Liden"], ["Holm"]],
+    "category": ["Fritidsförening"],
+    "activity": ["Fiske"]
+  },
+  {
+    "id": 94,
+    "name": "Holms Hembygdsförening",
+    "url": "hembygd.se/holm",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Liden"], ["Holm"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": ["Hembygdsverksamhet"]
+  },
+  {
+    "id": 95,
+    "name": "Holms Sportklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Liden"], ["Holm"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Fotboll"]
+  },
+  {
+    "id": 96,
+    "name": "Hovid Byalag",
+    "url": "https://hovidsbyalag.wordpress.com/notstallet/",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Alnö"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": ["Övrigt"]
+  },
+  {
+    "id": 3752,
+    "name": "HSB Bostadsrättsförening Bosvedjan i Sundsvall",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 97,
+    "name": "Hullsjöns bygdegårdsförening",
+    "url": "www.hullsjon.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Stöde"], ["Fanbyn"], ["Viskan"], ["Nedansjö"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": [
+      "Arrangör marknad",
+      "Friluftsverksamhet",
+      "Lokaluthyrning",
+      "Skoter",
+      "Yoga",
+      "Hembygdsverksamhet"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Hullsjöns Fiskevårdsområdesförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Stöde"], ["Fanbyn"], ["Viskan"], ["Nedansjö"]],
+    "category": ["Fritidsförening"],
+    "activity": ["Fiske", "Fiskevård"]
+  },
+  {
+    "id": 99,
+    "name": "Hällans Scoutkår",
+    "url": "www.nsf.scout.se/Sundsvall",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Södermalm"]],
+    "category": ["Fritidsförening"],
+    "activity": ["Scouting"]
+  },
+  {
+    "id": 1651,
+    "name": "Hälsokollen ideell förening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 100,
+    "name": "Härelokalens Byggnadsförening",
+    "url": "www.hareborg.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Indal"], ["Kävsta"], ["Östanskär"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": [
+      "Arrangör konsert",
+      "Dans folkdans",
+      "Teater barn",
+      "Lokaluthyrning",
+      "Övrigt"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Hörselskadades Förening Sundsvall/Timrå",
+    "url": "https://hrf.se/sundsvall-timra/",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Skönsberg"], ["Korsta"], ["Petersvik"]],
+    "category": ["Patient- & funktionshindersförening", "Social förening"],
+    "activity": [
+      "Social verksamhet",
+      "Övrigt",
+      "Pensionärsverksamhet",
+      "Patient och funktionshinders frågor"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "IBK Sundsvall Ungdom",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Idrottsförening"],
+    "activity": []
+  },
+  {
+    "id": 103,
+    "name": "Ibn Rushd studieförbund, distrikt Norra",
+    "url": "www.ibnrushd.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [["Centrum"]],
+    "category": ["Studieförbund"],
+    "activity": ["Studiecirklar", "Språk", "Studieverksamhet", "Övrigt"]
+  },
+  {
+    "id": 104,
+    "name": "Ideella föreningen EQ Kultur",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Kulturförening"],
+    "activity": []
+  },
+  {
+    "id": 178,
+    "name": "Ideella föreningen Mighty Dronts",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [["Kovland"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Ishockey"]
+  },
+  {
+    "id": 105,
+    "name": "IF Friskis & Svettis i Sundsvall",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Nacksta"], ["Sallyhill"], ["Midälva"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Övrigt"]
+  },
+  {
+    "id": 106,
+    "name": "IF Karlsvik",
+    "url": "ifkarlsvik.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Alnö"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Bågskytte"]
+  },
+  {
+    "id": 107,
+    "name": "IF Strategen",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [["Matfors"], ["Vattjom"], ["Tuna"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Körverksamhet", "Ridsport", "Kurser"]
+  },
+  {
+    "id": 108,
+    "name": "IF Sundsvall Hockey",
+    "url": "https://www.hockeyettan.se/sundsvall-hockey/",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Skönsmon"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Ishockey", "Hälsa och kost"]
+  },
+  {
+    "id": 397,
+    "name": "IFK Aspudden-Tellus",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 4554,
+    "name": "IFK Göteborg",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 109,
+    "name": "IFK Sundsvall",
+    "url": "www.ifksundsvall.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [["Bosvedjan"], ["Bydalen"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Fotboll"]
+  },
+  {
+    "id": 110,
+    "name": "IFK Timrå",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Idrottsförening"],
+    "activity": []
+  },
+  {
+    "id": 398,
+    "name": "IK Aluminium",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 3506,
+    "name": "IK Brage",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 111,
+    "name": "Indals hembygdsförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Indal"], ["Kävsta"], ["Östanskär"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": [
+      "Arrangör studieverksamhet",
+      "Föreläsningsverksamhet",
+      "Historisk/kulturhistorisk verksamhet",
+      "Social verksamhet",
+      "Studieverksamhet"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Indals IF",
+    "url": "www.indal.nu",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Liden"], ["Holm"]],
+    "category": ["Idrottsförening"],
+    "activity": [
+      "Arrangör studieverksamhet",
+      "Fotboll",
+      "Gymnastik",
+      "Längdskidåkning"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Indals-Lidens SK",
+    "url": "https://www.laget.se/ILSK",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Liden"], ["Holm"]],
+    "category": ["Idrottsförening"],
+    "activity": [
+      "Boxning",
+      "Ishockey",
+      "Styrketräning",
+      "Gymnastik",
+      "Längdskidåkning"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Internationella Föreningen Sundsvall",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Fritidsförening"],
+    "activity": []
+  },
+  {
+    "id": 115,
+    "name": "IOGT-NTO Jasmin",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Matfors"], ["Vattjom"], ["Tuna"]],
+    "category": ["Kulturförening", "Fritidsförening", "Social förening"],
+    "activity": [
+      "Arrangör ungdomskultur",
+      "Mångkulturell verksamhet",
+      "Folkbildning",
+      "Fiske",
+      "Nykterhet",
+      "Natur och miljö"
+    ]
+  },
+  {
+    "id": 3943,
+    "name": "IOGT-NTO Mitt",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 116,
+    "name": "Islamska Kulturcentret",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 117,
+    "name": "Jazzklubben Sundsvall",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Centrum"]],
+    "category": ["Kulturförening"],
+    "activity": ["Arrangör konsert", "Musik"]
+  },
+  {
+    "id": 401,
+    "name": "Journalistlinjeföreningen i Sundsvall, JFS",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [["Nacksta"], ["Sallyhill"], ["Midälva"]],
+    "category": ["Fritidsförening"],
+    "activity": []
+  },
+  {
+    "id": 2187,
+    "name": "JPF Produktioner Kulturförening",
+    "url": "http://jpfproduktioner.webber.se",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [["Centrum"]],
+    "category": ["Kulturförening"],
+    "activity": [
+      "Arrangör barnkultur",
+      "Arrangör teater",
+      "Arrangör konsert",
+      "Föreläsningsverksamhet",
+      "Mångkulturell verksamhet",
+      "Musik",
+      "Historisk/kulturhistorisk verksamhet",
+      "Teater barn",
+      "Teater ungdom",
+      "Övrigt",
+      "Revy"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Judo Club Sundsvall",
+    "url": "www.judosundsvall.com",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Skönsmon"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Judo"]
+  },
+  {
+    "id": 4097,
+    "name": "JUNIORHANDELSKAMMAREN SUNDSVALL",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 2176,
+    "name": "Juniskär Swimrun",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [["Essvik"], ["Skottsund"], ["Nyland"], ["Juniskär"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Övrigt"]
+  },
+  {
+    "id": 402,
+    "name": "Jägareförbundet Sundsvall Västra",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 119,
+    "name": "Järkvissle Folkets Husförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [["Liden"], ["Holm"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": [
+      "Arrangör teater",
+      "Arrangör konsert",
+      "Arrangör studieverksamhet",
+      "Tipspromenad"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Kaiku föreningen för sverigefinsk kultur",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Kulturförening"],
+    "activity": []
+  },
+  {
+    "id": 122,
+    "name": "Kamratföreningen Y-bataljonen",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Fritidsförening"],
+    "activity": []
+  },
+  {
+    "id": 123,
+    "name": "Karl Östmansällskapet",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [["Svartvik"], ["Vapelnäs"], ["Hemmanet"]],
+    "category": ["Kulturförening"],
+    "activity": ["Arrangör föreläsning", "Litteratur"]
+  },
+  {
+    "id": 124,
+    "name": "KFUM Kometerna",
+    "url": "www.kometerna.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Sidsjö"], ["Böle"], ["Mårtensro"]],
+    "category": [
+      "Kulturförening",
+      "Idrottsförening",
+      "Patient- & funktionshindersförening"
+    ],
+    "activity": ["Bowling", "Motion", "Parasport", "Simning"]
+  },
+  {
+    "id": 125,
+    "name": "KFUM Sundsvall Basketförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20"],
+    "area": [["Sundsbruk"], ["Finsta"], ["Birsta"], ["Ljustadalen"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Basket"]
+  },
+  {
+    "id": 126,
+    "name": "Klimataktion Sundsvall",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Fritidsförening"],
+    "activity": []
+  },
+  {
+    "id": 127,
+    "name": "Klingstabygdens IF",
+    "url": "www.klingstabygdensif.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Klingsta"], ["Allsta"]],
+    "category": ["Idrottsförening"],
+    "activity": [
+      "Vandring",
+      "Friluftsverksamhet",
+      "Gymnastik",
+      "Längdskidåkning",
+      "Löpning"
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Klockarbergets BK",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Idrottsförening"],
+    "activity": ["Innebandy"]
+  },
+  {
+    "id": 3050,
+    "name": "KNIS, Konstnätverket i Sundsvall",
+    "url": "www.knisundsvall.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Centrum"]],
+    "category": ["Kulturförening"],
+    "activity": ["Konstverksamhet"]
+  },
+  {
+    "id": 407,
+    "name": "Kommunal Mellersta Norrland/Sektion 12",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 4732,
+    "name": "Kommunal Mellerstanorrland sek 15",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 4536,
+    "name": "Kommunal Teknik & Utbildning. Sekt.23",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 129,
+    "name": "Konståkningsklubben Iskristallen",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Bosvedjan"], ["Bydalen"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Konståkning"]
+  },
+  {
+    "id": 130,
+    "name": "Korpen Sundsvall",
+    "url": "https://www.korpen.se/korpensundsvall/",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [["Sundsbruk"], ["Finsta"], ["Birsta"], ["Ljustadalen"]],
+    "category": ["Idrottsförening"],
+    "activity": [
+      "Fotboll",
+      "Dans showdans",
+      "Korpidrott",
+      "Motion",
+      "Innebandy",
+      "Tipspromenad",
+      "Övrigt"
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Kovlands Idrottsförening (IF)",
+    "url": "www.kovlandsif.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Kovland"]],
+    "category": ["Idrottsförening"],
+    "activity": [
+      "Arrangör marknad",
+      "Orientering",
+      "Fotboll",
+      "Längdskidåkning",
+      "Övrigt"
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Kovlands Ishockeyförening",
+    "url": "https://www.svenskalag.se/kovlandhockey",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Kovland"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Ishockey", "Skridskosport"]
+  },
+  {
+    "id": 133,
+    "name": "Kovlands Skoterklubb",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Kovland"]],
+    "category": ["Fritidsförening"],
+    "activity": ["Skoter"]
+  },
+  {
+    "id": 134,
+    "name": "Kriminellas Revansch i Samhället (KRIS)",
+    "url": "Krissundsvall.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Centrum"]],
+    "category": ["Social förening"],
+    "activity": [
+      "Arrangör föreläsning",
+      "Föreläsningsverksamhet",
+      "Jämställdhets och jämlikhetsarbete",
+      "Social verksamhet",
+      "Nykterhet"
+    ]
+  },
+  {
+    "id": 409,
+    "name": "Kristna Skolan Oasen",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 135,
+    "name": "Kubenbadets Intresseförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Skönsmon"]],
+    "category": ["Fritidsförening"],
+    "activity": ["Övrigt"]
+  },
+  {
+    "id": 136,
+    "name": "Kubikenborgs IF",
+    "url": "https://www.sportadmin.se/ https://kubikenborgsif.se/",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20"],
+    "area": [["Skönsmon"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Fotboll"]
+  },
+  {
+    "id": 137,
+    "name": "Kubikenborgs Ungdoms & Sportskytteförening",
+    "url": "kubikenborg.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Skönsmon"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Skytte"]
+  },
+  {
+    "id": 139,
+    "name": "Kulturföreningen Soja",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Kulturförening"],
+    "activity": []
+  },
+  {
+    "id": 140,
+    "name": "Kulturföreningen Teater ÄSCH!",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Skönsberg"], ["Korsta"], ["Petersvik"]],
+    "category": ["Kulturförening"],
+    "activity": [
+      "Arrangör ungdomskultur",
+      "Arrangör teater",
+      "Mångkulturell verksamhet",
+      "Historisk/kulturhistorisk verksamhet",
+      "Social verksamhet",
+      "Integration"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Kungsnäs FC",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20"],
+    "area": [["Bergsåker"], ["Lillhällom"], ["Österro"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Fotboll"]
+  },
+  {
+    "id": 142,
+    "name": "Kurdo",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Fritidsförening"],
+    "activity": []
+  },
+  {
+    "id": 143,
+    "name": "Kvartersteatern Sundsvall",
+    "url": "www.kvartersteatern.nu",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Skönsmon"]],
+    "category": ["Kulturförening"],
+    "activity": [
+      "Arrangör ungdomskultur",
+      "Arrangör teater",
+      "Musik",
+      "Musik - ungdom",
+      "Teater barn",
+      "Teater ungdom",
+      "Teater amatör"
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Kvissleby Bridgeklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Pensionärsförening"],
+    "activity": []
+  },
+  {
+    "id": 145,
+    "name": "Körföreningen Mousiké",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Kulturförening"],
+    "activity": []
+  },
+  {
+    "id": 146,
+    "name": "Lars Ahlin-sällskapet",
+    "url": "http://www.larsahlinsallskapet.se/",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [["Centrum"]],
+    "category": ["Kulturförening"],
+    "activity": ["Litteratur"]
+  },
+  {
+    "id": 411,
+    "name": "Leader Mittland Plus",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 147,
+    "name": "LF 158 Hälleberget av IOGT-NTO",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Södermalm"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": ["Nykterhet"]
+  },
+  {
+    "id": 148,
+    "name": "Lidens Hembygdsförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Liden"], ["Holm"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": ["Hembygdsverksamhet"]
+  },
+  {
+    "id": 149,
+    "name": "Lidens Nedre Fiskevårdsförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [["Liden"], ["Holm"]],
+    "category": ["Fritidsförening"],
+    "activity": ["Fiske", "Fiskevård"]
+  },
+  {
+    "id": 1941,
+    "name": "Lidens skola",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 150,
+    "name": "Lillströms Intresseförening",
+    "url": "https://www,facebook.com/lillstromsintresseforening",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Stöde"], ["Fanbyn"], ["Viskan"], ["Nedansjö"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": ["Lokaluthyrning", "Övrigt"]
+  },
+  {
+    "id": 151,
+    "name": "Lucksta IF",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Lucksta"], ["Attmar"]],
+    "category": ["Förening med samlingslokal", "Idrottsförening"],
+    "activity": ["Fotboll", "Boule", "Längdskidåkning"]
+  },
+  {
+    "id": 152,
+    "name": "Långlidens Byggnadsförening",
+    "url": "https://www.facebook.com/p/L%C3%A5nglidens-byggnadsf%C3%B6rening-100064809850419/?paipv=0&eav=Afb_HQzsioxyUNcKj4jg2DjQaQFO1i38YPKUv-ibJAYqIiXEkJzlZQTa5tlWhZfL1LM&_rdr",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Liden"], ["Holm"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": [
+      "Arrangör marknad",
+      "Arrangör utställning",
+      "Arrangör teater",
+      "Arrangör studieverksamhet",
+      "Arrangör föreläsning",
+      "Musik",
+      "Social verksamhet",
+      "Lokaluthyrning",
+      "Övrigt",
+      "Hembygdsverksamhet",
+      "Hantverk"
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Långskogsbygdens Intresseförening",
+    "url": "https://langskog.se",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Förening med samlingslokal"],
+    "activity": []
+  },
+  {
+    "id": 154,
+    "name": "Majbygdens Intresseförening",
+    "url": "www.majskansen-se.webnode.se/",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Förening med samlingslokal"],
+    "activity": [
+      "Arrangör marknad",
+      "Arrangör utställning",
+      "Arrangör barnkultur",
+      "Arrangör teater",
+      "Arrangör studieverksamhet",
+      "Arrangör föreläsning",
+      "Cirkus",
+      "Folkbildning",
+      "Filmvisning",
+      "Foto",
+      "Djurvård",
+      "Odling, växter",
+      "Natur och miljö",
+      "Trädgård",
+      "Jakt och vilt",
+      "Hantverk"
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Mariebergs Scoutkår",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20"],
+    "area": [["Nacksta"], ["Sallyhill"], ["Midälva"]],
+    "category": ["Fritidsförening"],
+    "activity": ["Scouting"]
+  },
+  {
+    "id": 156,
+    "name": "Matfors Badmintonklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Idrottsförening"],
+    "activity": []
+  },
+  {
+    "id": 157,
+    "name": "Matfors Bridge",
+    "url": "matforsbridge.jimdofree.com",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Matfors"], ["Vattjom"], ["Tuna"]],
+    "category": ["Pensionärsförening"],
+    "activity": ["Bridge"]
+  },
+  {
+    "id": 158,
+    "name": "Matfors Hockey Club",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Matfors"], ["Vattjom"], ["Tuna"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Ishockey"]
+  },
+  {
+    "id": 159,
+    "name": "Matfors Idrottsförening (IF)",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [["Matfors"], ["Vattjom"], ["Tuna"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Fotboll"]
+  },
+  {
+    "id": 160,
+    "name": "Matfors Konstförening",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Matfors"], ["Vattjom"], ["Tuna"]],
+    "category": ["Kulturförening"],
+    "activity": ["Konsthantverk"]
+  },
+  {
+    "id": 161,
+    "name": "Matfors Kvartersteater",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [["Matfors"], ["Vattjom"], ["Tuna"]],
+    "category": ["Kulturförening"],
+    "activity": ["Teater amatör"]
+  },
+  {
+    "id": 1835,
+    "name": "Matfors Lion Club",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 162,
+    "name": "Matfors Ryttarförening",
+    "url": "matforsryttarforening.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Matfors"], ["Vattjom"], ["Tuna"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Ridsport"]
+  },
+  {
+    "id": 163,
+    "name": "Matfors Scoutkår",
+    "url": "matfors.scout.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Matfors"], ["Vattjom"], ["Tuna"]],
+    "category": ["Förening med samlingslokal", "Fritidsförening"],
+    "activity": ["Scouting"]
+  },
+  {
+    "id": 164,
+    "name": "Matfors Simsällskap",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Idrottsförening"],
+    "activity": []
+  },
+  {
+    "id": 165,
+    "name": "Matfors Skidklubb",
+    "url": "www.matforsskidklubb.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Matfors"], ["Vattjom"], ["Tuna"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Längdskidåkning"]
+  },
+  {
+    "id": 166,
+    "name": "Medborgarskolan Nord",
+    "url": "www.medborgarskolan.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Nacksta"], ["Sallyhill"], ["Midälva"]],
+    "category": ["Studieförbund"],
+    "activity": [
+      "Arrangör utställning",
+      "Arrangör konsert",
+      "Arrangör studieverksamhet",
+      "Simning",
+      "Övrigt",
+      "Kurser"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Medelpads Civilförsvarsförening",
+    "url": "https://civil.se/vasternorrland/medelpad/",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Distriktsförbund"],
+    "activity": [
+      "Arrangör studieverksamhet",
+      "Arrangör föreläsning",
+      "Föreläsningsverksamhet",
+      "Mångkulturell verksamhet",
+      "Folkbildning",
+      "Social verksamhet",
+      "Vandring",
+      "Humanitär verksamhet",
+      "Fredsarbete",
+      "Hälsa och kost",
+      "Studieverksamhet",
+      "Övrigt",
+      "Livräddning"
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Medelpads Diabetesförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Centrum"]],
+    "category": ["Patient- & funktionshindersförening"],
+    "activity": [
+      "Föreläsningsverksamhet",
+      "Social verksamhet",
+      "Studiecirklar",
+      "Motion",
+      "Hälsa och kost",
+      "Kurser",
+      "Patient och funktionshinders frågor"
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Medelpads Dövas Förening",
+    "url": "www.mdfkotte.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Centrum"]],
+    "category": [
+      "Förening med samlingslokal",
+      "Patient- & funktionshindersförening"
+    ],
+    "activity": [
+      "Social verksamhet",
+      "Språk",
+      "Pensionärsverksamhet",
+      "Patient och funktionshinders frågor"
+    ]
+  },
+  {
+    "id": 169,
+    "name": "Medelpads Folkmusikförbund",
+    "url": "medelpadsfolkmusikforbund.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Kulturförening"],
+    "activity": ["Musik folkmusik"]
+  },
+  {
+    "id": 1538,
+    "name": "Medelpads Fornminnesförening",
+    "url": "www.skvadern.com",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Kulturförening"],
+    "activity": [
+      "Historisk/kulturhistorisk verksamhet",
+      "Museiverksamhet",
+      "Hembygdsverksamhet"
+    ]
+  },
+  {
+    "id": 414,
+    "name": "Medelpads Fotbollförbund",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Distriktsförbund"],
+    "activity": []
+  },
+  {
+    "id": 170,
+    "name": "Medelpads Hembygdsförbund",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Distriktsförbund"],
+    "activity": []
+  },
+  {
+    "id": 171,
+    "name": "Medelpads Hemslöjd Ideell Förening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Centrum"]],
+    "category": ["Kulturförening"],
+    "activity": [
+      "Arrangör marknad",
+      "Arrangör ungdomskultur",
+      "Arrangör utställning",
+      "Arrangör barnkultur",
+      "Arrangör studieverksamhet",
+      "Arkiv",
+      "Arrangör föreläsning",
+      "Historisk/kulturhistorisk verksamhet",
+      "Social verksamhet",
+      "Studiecirklar",
+      "Konsthantverk",
+      "Odling, växter",
+      "Studieverksamhet",
+      "Kurser",
+      "Hantverk"
+    ]
+  },
+  {
+    "id": 416,
+    "name": "Medelpads Ishockeyförbund",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Distriktsförbund"],
+    "activity": []
+  },
+  {
+    "id": 172,
+    "name": "Medelpads Lärarseniorer",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Pensionärsförening"],
+    "activity": []
+  },
+  {
+    "id": 173,
+    "name": "Medelpads Orienteringsförbund",
+    "url": "orientering.se/medelpad",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Distriktsförbund"],
+    "activity": ["Orientering", "Skidorientering"]
+  },
+  {
+    "id": 2810,
+    "name": "Medelpads Sjöhistoriska Förening MSF",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [["Alnö"]],
+    "category": ["Kulturförening"],
+    "activity": [
+      "Föreläsningsverksamhet",
+      "Studiecirklar",
+      "Kulturmiljövård",
+      "Studieverksamhet",
+      "Museiverksamhet",
+      "Veteranfordon",
+      "Övrigt",
+      "Hembygdsverksamhet"
+    ]
+  },
+  {
+    "id": 418,
+    "name": "Medelpads Skidförbund",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Distriktsförbund"],
+    "activity": ["Alpint", "Längdskidåkning", "Rullskidor"]
+  },
+  {
+    "id": 177,
+    "name": "Medelpads Släktforskarförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [["Centrum"]],
+    "category": ["Fritidsförening"],
+    "activity": ["Släktforskning"]
+  },
+  {
+    "id": 174,
+    "name": "Medskogsbrons Bollklubb (BK)",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [["Klingsta"], ["Allsta"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Fotboll"]
+  },
+  {
+    "id": 175,
+    "name": "Medskogsbrons väg- och intresseförening",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Fritidsförening"],
+    "activity": []
+  },
+  {
+    "id": 176,
+    "name": "Mellangårds Bygdegårdsförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Lucksta"], ["Attmar"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": ["Lokaluthyrning", "Övrigt"]
+  },
+  {
+    "id": 179,
+    "name": "Mittuniversitetet",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 2409,
+    "name": "Musikens Vänner",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [["Centrum"]],
+    "category": ["Kulturförening"],
+    "activity": ["Musik", "Övrigt"]
+  },
+  {
+    "id": 180,
+    "name": "Musikföreningen Tonica",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Kulturförening"],
+    "activity": []
+  },
+  {
+    "id": 181,
+    "name": "Nakama-Kai",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Fritidsförening"],
+    "activity": []
+  },
+  {
+    "id": 182,
+    "name": "Naturskyddsföreningen Sundsvall-Ånge",
+    "url": "https://sundsvallange.naturskyddsforeningen.se/",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Fritidsförening"],
+    "activity": [
+      "Fågelskådning",
+      "Föreläsningsverksamhet",
+      "Folkbildning",
+      "Mulle och knatteverksamhet",
+      "Vandring",
+      "Friluftsverksamhet",
+      "Studieverksamhet",
+      "Natur och miljö"
+    ]
+  },
+  {
+    "id": 183,
+    "name": "NBV Norr",
+    "url": "www.nbv.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [["Skönsberg"], ["Korsta"], ["Petersvik"]],
+    "category": ["Studieförbund"],
+    "activity": ["Arrangör studieverksamhet", "Folkbildning", "Nykterhet"]
+  },
+  {
+    "id": 184,
+    "name": "Nedansjö Bygdeförening",
+    "url": "Www.nedansjo.net",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Stöde"], ["Fanbyn"], ["Viskan"], ["Nedansjö"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": [
+      "Boule",
+      "Musik",
+      "Lokaluthyrning",
+      "Vävning",
+      "Övrigt",
+      "Pensionärsverksamhet",
+      "Hembygdsverksamhet",
+      "Hantverk"
+    ]
+  },
+  {
+    "id": 185,
+    "name": "Nedansjö Idrottsklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Stöde"], ["Fanbyn"], ["Viskan"], ["Nedansjö"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Fotboll", "Längdskidåkning", "Löpning"]
+  },
+  {
+    "id": 186,
+    "name": "Nedre Ljungans Fiskevårdsområdesförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Fritidsförening"],
+    "activity": []
+  },
+  {
+    "id": 187,
+    "name": "Nedre Ljungans Forspaddlare",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 188,
+    "name": "Neuroförbundet Medelpad",
+    "url": "neuro.se/medelpad",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Svartvik"], ["Vapelnäs"], ["Hemmanet"]],
+    "category": ["Patient- & funktionshindersförening"],
+    "activity": ["Social verksamhet", "Övrigt"]
+  },
+  {
+    "id": 423,
+    "name": "NF Mittnaturist",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 189,
+    "name": "Nivren Folkdansgille",
+    "url": "nivren.com",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Förening med samlingslokal"],
+    "activity": ["Arrangör konsert", "Dans folkdans"]
+  },
+  {
+    "id": 190,
+    "name": "Njurunda Bouleklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [["Kvissleby"], ["Nolby"]],
+    "category": ["Idrottsförening", "Pensionärsförening"],
+    "activity": ["Boule"]
+  },
+  {
+    "id": 191,
+    "name": "Njurunda Boxningsklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Idrottsförening"],
+    "activity": ["Boxning"]
+  },
+  {
+    "id": 3663,
+    "name": "Njurunda Brukshundklubb",
+    "url": "njurundabhk.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Fritidsförening"],
+    "activity": [
+      "Arrangör studieverksamhet",
+      "Hundverksamhet",
+      "Hundsport",
+      "Djurvård"
+    ]
+  },
+  {
+    "id": 501,
+    "name": "Njurunda Folkets Husförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 192,
+    "name": "Njurunda hembygdsförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Förening med samlingslokal", "Kulturförening"],
+    "activity": [
+      "Arrangör utställning",
+      "Folkbildning",
+      "Historisk/kulturhistorisk verksamhet",
+      "Studieverksamhet",
+      "Museiverksamhet",
+      "Hembygdsverksamhet"
+    ]
+  },
+  {
+    "id": 193,
+    "name": "Njurunda IK",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Kvissleby"], ["Nolby"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Fotboll"]
+  },
+  {
+    "id": 194,
+    "name": "Njurunda Motorklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Kvissleby"], ["Nolby"]],
+    "category": ["Idrottsförening"],
+    "activity": ["MC Trail", "MC Motorcross", "MC Enduro"]
+  },
+  {
+    "id": 195,
+    "name": "Njurunda Orienteringsklubb",
+    "url": "https://njurundaok.se/",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Idrottsförening"],
+    "activity": ["Orientering"]
+  },
+  {
+    "id": 196,
+    "name": "Njurunda Ryttareförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Idrottsförening"],
+    "activity": ["Ridskola", "Ridsport"]
+  },
+  {
+    "id": 197,
+    "name": "Njurunda Scoutkår",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Fritidsförening"],
+    "activity": ["Scouting"]
+  },
+  {
+    "id": 198,
+    "name": "Njurunda Simsällskap",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Idrottsförening"],
+    "activity": ["Gymnastik", "Simning", "Övrigt"]
+  },
+  {
+    "id": 199,
+    "name": "Njurunda Skidklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Idrottsförening"],
+    "activity": ["Längdskidåkning"]
+  },
+  {
+    "id": 200,
+    "name": "Njurunda Slöjdförening",
+    "url": "www.vavstugannjurunda",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Förening med samlingslokal", "Kulturförening"],
+    "activity": ["Vävning", "Övrigt", "Kurser"]
+  },
+  {
+    "id": 4416,
+    "name": "Njurunda Socialdemokratiska Förening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 201,
+    "name": "Njurunda Sportklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Idrottsförening"],
+    "activity": ["Fotboll", "Ishockey"]
+  },
+  {
+    "id": 202,
+    "name": "Njurunda Södra Fiskevårdsområdesförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Fritidsförening"],
+    "activity": ["Fiske"]
+  },
+  {
+    "id": 3561,
+    "name": "Noerhtenaestie Västernorrlands Sameförening",
+    "url": "www.noerhtenaestie.com",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Kulturförening"],
+    "activity": [
+      "Arrangör marknad",
+      "Arrangör ungdomskultur",
+      "Arrangör utställning",
+      "Arrangör barnkultur",
+      "Arrangör teater",
+      "Arrangör konsert",
+      "Arrangör studieverksamhet",
+      "Arkiv",
+      "Arrangör föreläsning",
+      "Kör dam",
+      "Föreläsningsverksamhet",
+      "Mångkulturell verksamhet",
+      "Körverksamhet",
+      "Folkbildning",
+      "Jämställdhets och jämlikhetsarbete",
+      "Filmvisning",
+      "Kör ungdom",
+      "Musik",
+      "Fiske",
+      "Foto",
+      "Historisk/kulturhistorisk verksamhet",
+      "Social verksamhet",
+      "Släktforskning",
+      "Musik - ungdom",
+      "Vandring",
+      "Forskning",
+      "Humanitär verksamhet",
+      "Teater barn",
+      "Teater ungdom",
+      "Konsthantverk",
+      "Konstverksamhet",
+      "Kulturmiljövård",
+      "Kör barn",
+      "Språk",
+      "Friluftsverksamhet",
+      "Integration",
+      "Lokaluthyrning",
+      "Vävning",
+      "Studieverksamhet",
+      "Natur och miljö",
+      "Litteratur",
+      "Pensionärsverksamhet",
+      "Kurser",
+      "Teater amatör",
+      "Jakt och vilt",
+      "Hantverk"
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Nolby Alpina Skidklubb",
+    "url": "www.nolbyalpina.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Idrottsförening"],
+    "activity": ["Alpint"]
+  },
+  {
+    "id": 204,
+    "name": "Nolby Hockey Club",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Idrottsförening"],
+    "activity": []
+  },
+  {
+    "id": 1564,
+    "name": "Nolby IK",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Kvissleby"], ["Nolby"]],
+    "category": ["Fritidsförening"],
+    "activity": ["Ishockey", "Motion"]
+  },
+  {
+    "id": 205,
+    "name": "Nora-Västansjö Bygdegård",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Kovland"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": ["Social verksamhet", "Lokaluthyrning"]
+  },
+  {
+    "id": 3872,
+    "name": "Norrlands Travsällskap",
+    "url": "www.bergsaker.com",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Bergsåker"], ["Lillhällom"], ["Österro"]],
+    "category": ["Idrottsförening"],
+    "activity": []
+  },
+  {
+    "id": 4524,
+    "name": "Norrlandskustens framefotboll",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 495,
+    "name": "Ordenssällskapet W.F.",
+    "url": "https://ordenssallskapetwf.se/loger/sundsvall/",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Fritidsförening"],
+    "activity": []
+  },
+  {
+    "id": 206,
+    "name": "Ortvikens Pingisklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Idrottsförening"],
+    "activity": ["Bordtennis"]
+  },
+  {
+    "id": 207,
+    "name": "Oxsta Byggnadsförening",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Förening med samlingslokal"],
+    "activity": []
+  },
+  {
+    "id": 208,
+    "name": "Parkinson Medelpad",
+    "url": "https://www.parkinsonforbundet.se/haer-finns-vi/parkinson-medelpad/",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Centrum"]],
+    "category": ["Patient- & funktionshindersförening"],
+    "activity": [
+      "Bordtennis",
+      "Boxning",
+      "Föreläsningsverksamhet",
+      "Folkbildning",
+      "Kör blandad",
+      "Social verksamhet",
+      "Studiecirklar",
+      "Studieverksamhet",
+      "Övrigt",
+      "Pensionärsverksamhet",
+      "Patient och funktionshinders frågor"
+    ]
+  },
+  {
+    "id": 209,
+    "name": "Pensionärernas Bowlingklubb Sundsvall",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Bosvedjan"], ["Bydalen"]],
+    "category": ["Pensionärsförening"],
+    "activity": ["Bowling"]
+  },
+  {
+    "id": 434,
+    "name": "Permobil Verkstadsklubb IF Metall",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 210,
+    "name": "Pingisklubben i Sundsvall",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Idrottsförening"],
+    "activity": []
+  },
+  {
+    "id": 211,
+    "name": "Pipeline Sundsvalls Musikforum",
+    "url": "www.pipelinesundsvall.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Centrum"]],
+    "category": ["Kulturförening"],
+    "activity": [
+      "Arrangör ungdomskultur",
+      "Mångkulturell verksamhet",
+      "Musik",
+      "Musik - ungdom"
+    ]
+  },
+  {
+    "id": 3538,
+    "name": "Piteå IF DFF",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 4616,
+    "name": "Postseniorerna Medelpad",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Pensionärsförening"],
+    "activity": ["Pensionärsverksamhet"]
+  },
+  {
+    "id": 212,
+    "name": "PRO Alnö",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Alnö"]],
+    "category": ["Pensionärsförening"],
+    "activity": ["Pensionärsverksamhet"]
+  },
+  {
+    "id": 213,
+    "name": "PRO Attmar",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Lucksta"], ["Attmar"]],
+    "category": ["Pensionärsförening"],
+    "activity": ["Pensionärsverksamhet"]
+  },
+  {
+    "id": 214,
+    "name": "PRO City",
+    "url": "www.pro.se/city-sundsvall",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Centrum"]],
+    "category": ["Pensionärsförening"],
+    "activity": [
+      "Arrangör studieverksamhet",
+      "Arrangör föreläsning",
+      "Fågelskådning",
+      "Föreläsningsverksamhet",
+      "Filmvisning",
+      "Boule",
+      "Vattengympa",
+      "Historisk/kulturhistorisk verksamhet",
+      "Social verksamhet",
+      "Studiecirklar",
+      "Vandring",
+      "Motion",
+      "Datakunskap",
+      "Gymnastik",
+      "Qigong",
+      "Studieverksamhet",
+      "Simning",
+      "Litteratur",
+      "Pensionärsverksamhet",
+      "Kurser",
+      "Patient och funktionshinders frågor",
+      "Yoga",
+      "Dans kurser",
+      "Hantverk",
+      "Livräddning"
+    ]
+  },
+  {
+    "id": 215,
+    "name": "PRO Holm",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Liden"], ["Holm"]],
+    "category": ["Pensionärsförening"],
+    "activity": ["Pensionärsverksamhet"]
+  },
+  {
+    "id": 216,
+    "name": "PRO Indal",
+    "url": "pro.se/distrikt/distrikt-medelpad/samorganisationer/samorganisation-sundsvall/foreningar/indal.html",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Indal"], ["Kävsta"], ["Östanskär"]],
+    "category": ["Pensionärsförening"],
+    "activity": ["Pensionärsverksamhet"]
+  },
+  {
+    "id": 217,
+    "name": "PRO Liden",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Liden"], ["Holm"]],
+    "category": ["Förening med samlingslokal", "Pensionärsförening"],
+    "activity": ["Friluftsverksamhet", "Lokaluthyrning", "Övrigt"]
+  },
+  {
+    "id": 218,
+    "name": "PRO Matfors",
+    "url": "https://pro.se/om-oss",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Matfors"], ["Vattjom"], ["Tuna"]],
+    "category": ["Pensionärsförening"],
+    "activity": ["Pensionärsverksamhet"]
+  },
+  {
+    "id": 219,
+    "name": "PRO Njurunda",
+    "url": "pro.se/njurunda",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Kvissleby"], ["Nolby"]],
+    "category": ["Pensionärsförening"],
+    "activity": ["Pensionärsverksamhet"]
+  },
+  {
+    "id": 220,
+    "name": "PRO Selånger",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Bergsåker"], ["Lillhällom"], ["Österro"]],
+    "category": ["Pensionärsförening"],
+    "activity": ["Föreläsningsverksamhet", "Pensionärsverksamhet"]
+  },
+  {
+    "id": 221,
+    "name": "PRO Skön Norra",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [["Sundsbruk"], ["Finsta"], ["Birsta"], ["Ljustadalen"]],
+    "category": ["Pensionärsförening"],
+    "activity": [
+      "Kör dam",
+      "Boule",
+      "Social verksamhet",
+      "Studiecirklar",
+      "Motion",
+      "Konstverksamhet",
+      "Pensionärsverksamhet",
+      "Hantverk"
+    ]
+  },
+  {
+    "id": 222,
+    "name": "PRO Sköns Södra",
+    "url": "www.pro.se/skonssodra",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Skönsberg"], ["Korsta"], ["Petersvik"]],
+    "category": ["Pensionärsförening"],
+    "activity": ["Pensionärsverksamhet"]
+  },
+  {
+    "id": 224,
+    "name": "PRO Sättna",
+    "url": "sattna@pro.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Kovland"]],
+    "category": ["Pensionärsförening"],
+    "activity": ["Boule", "Pensionärsverksamhet"]
+  },
+  {
+    "id": 225,
+    "name": "Psoriasisförbundet, Medelpads lokalavd",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Patient- & funktionshindersförening"],
+    "activity": []
+  },
+  {
+    "id": 226,
+    "name": "Pålsgårdens Bygdegårdsförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Stöde"], ["Fanbyn"], ["Viskan"], ["Nedansjö"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": ["Lokaluthyrning", "Övrigt"]
+  },
+  {
+    "id": 2893,
+    "name": "Regionförbund Ishockey Norr",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 228,
+    "name": "Reumatikerföreningen Sundsvall",
+    "url": "www.reumatiker.se/sundsvall",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Centrum"]],
+    "category": ["Patient- & funktionshindersförening"],
+    "activity": ["Patient och funktionshinders frågor"]
+  },
+  {
+    "id": 441,
+    "name": "RF-SISU Västernorrland",
+    "url": "rfsisu.se/distrikt/vasternorrland",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Distriktsförbund"],
+    "activity": []
+  },
+  {
+    "id": 229,
+    "name": "RFSL Västernorrland",
+    "url": "https://vasternorrland.rfsl.se/",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [["Matfors"], ["Vattjom"], ["Tuna"]],
+    "category": [
+      "Förening med samlingslokal",
+      "Fritidsförening",
+      "Social förening"
+    ],
+    "activity": [
+      "Arrangör marknad",
+      "Arrangör ungdomskultur",
+      "Arrangör utställning",
+      "Arrangör barnkultur",
+      "Arrangör konsert",
+      "Arrangör föreläsning",
+      "Brädspel",
+      "Föreläsningsverksamhet",
+      "Mångkulturell verksamhet",
+      "Folkbildning",
+      "Jämställdhets och jämlikhetsarbete",
+      "Social verksamhet",
+      "Studiecirklar",
+      "HBTQ-verksamhet",
+      "Friluftsverksamhet",
+      "Integration",
+      "Studieverksamhet",
+      "Övrigt"
+    ]
+  },
+  {
+    "id": 2418,
+    "name": "RIK Karlskoga",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 72,
+    "name": "Riksförbundet HjärtLung Sundsvall",
+    "url": "www.hjart-lung.se/sundsvall",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Nacksta"], ["Sallyhill"], ["Midälva"]],
+    "category": ["Patient- & funktionshindersförening"],
+    "activity": [
+      "Arrangör föreläsning",
+      "Föreläsningsverksamhet",
+      "Vattengympa",
+      "Social verksamhet",
+      "Studiecirklar",
+      "Styrketräning",
+      "Gymnastik",
+      "Livräddning",
+      "Patient och funktionshinders frågor",
+      "Yoga"
+    ]
+  },
+  {
+    "id": 4630,
+    "name": "Roots Sundsvall",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 230,
+    "name": "RPG i Sundsvall",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Centrum"]],
+    "category": ["Pensionärsförening"],
+    "activity": [
+      "Körverksamhet",
+      "Folkbildning",
+      "Kör blandad",
+      "Boule",
+      "Musik",
+      "Friluftsverksamhet",
+      "Pensionärsverksamhet"
+    ]
+  },
+  {
+    "id": 231,
+    "name": "RSMH Sundsvall",
+    "url": "https://rsmh-sundsvall.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Skönsberg"], ["Korsta"], ["Petersvik"]],
+    "category": ["Patient- & funktionshindersförening", "Social förening"],
+    "activity": [
+      "Arrangör studieverksamhet",
+      "Arrangör föreläsning",
+      "Föreläsningsverksamhet",
+      "Folkbildning",
+      "Boule",
+      "Curling",
+      "Bowling",
+      "Fiske",
+      "Vattengympa",
+      "Social verksamhet",
+      "Humanitär verksamhet",
+      "Datakunskap",
+      "Språk",
+      "Friluftsverksamhet",
+      "Gymnastik",
+      "Frisbee",
+      "Hälsa och kost",
+      "Studieverksamhet",
+      "Litteratur",
+      "Övrigt",
+      "Pensionärsverksamhet",
+      "Kurser"
+    ]
+  },
+  {
+    "id": 2630,
+    "name": "RSMH UNG SUNDSVALL/VILJA",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Social förening"],
+    "activity": ["Social verksamhet", "Hälsa och kost"]
+  },
+  {
+    "id": 232,
+    "name": "Rude Intresseförening",
+    "url": "https://bygdegardarna.se/rudegarden/",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Matfors"], ["Vattjom"], ["Tuna"]],
+    "category": ["Förening med samlingslokal", "Fritidsförening"],
+    "activity": [
+      "Arrangör marknad",
+      "Arrangör utställning",
+      "Arrangör barnkultur",
+      "Arrangör konsert",
+      "Arrangör föreläsning",
+      "Föreläsningsverksamhet",
+      "Mångkulturell verksamhet",
+      "Jämställdhets och jämlikhetsarbete",
+      "Medeltidsverksamhet",
+      "Social verksamhet",
+      "Konsthantverk",
+      "Konstverksamhet",
+      "Gymnastik",
+      "E-sport",
+      "Lokaluthyrning",
+      "Odling, växter",
+      "Övrigt",
+      "Pensionärsverksamhet",
+      "Yoga",
+      "Dans kurser",
+      "Hembygdsverksamhet"
+    ]
+  },
+  {
+    "id": 442,
+    "name": "Runacademy ATT",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 233,
+    "name": "Rädda Barnen ungdomsförening",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 234,
+    "name": "Rädda Barnens lokalförening i Sundsvall",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Kvissleby"], ["Nolby"]],
+    "category": ["Social förening"],
+    "activity": [
+      "Social verksamhet",
+      "Humanitär verksamhet",
+      "Läxläsning",
+      "Övrigt"
+    ]
+  },
+  {
+    "id": 235,
+    "name": "Rännö Bygdegårdsförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Matfors"], ["Vattjom"], ["Tuna"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": ["Social verksamhet", "Lokaluthyrning"]
+  },
+  {
+    "id": 236,
+    "name": "Rännö Fiskevårdsområdesförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Matfors"], ["Vattjom"], ["Tuna"]],
+    "category": ["Fritidsförening"],
+    "activity": ["Fiske", "Fiskevård"]
+  },
+  {
+    "id": 237,
+    "name": "Rörelsehindrade Barn & Ungdomar (RBU)",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Patient- & funktionshindersförening"],
+    "activity": []
+  },
+  {
+    "id": 238,
+    "name": "Sadaka Familjebyrå",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Nacksta"], ["Sallyhill"], ["Midälva"]],
+    "category": ["Fritidsförening", "Social förening"],
+    "activity": [
+      "Basket",
+      "Föreläsningsverksamhet",
+      "Mångkulturell verksamhet",
+      "Jämställdhets och jämlikhetsarbete",
+      "Social verksamhet",
+      "Humanitär verksamhet",
+      "Friluftsverksamhet",
+      "Integration"
+    ]
+  },
+  {
+    "id": 443,
+    "name": "Samfälligheten Sandalen",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 239,
+    "name": "Scen Sundsvall - en del av Riksteatern",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Kulturförening"],
+    "activity": [
+      "Arrangör ungdomskultur",
+      "Akrobatik",
+      "Arrangör teater",
+      "Arrangör konsert",
+      "Arrangör föreläsning",
+      "Cirkus",
+      "Filmvisning",
+      "Musik",
+      "Social verksamhet",
+      "Studiecirklar",
+      "Vandring",
+      "HBTQ-verksamhet",
+      "Teater ungdom",
+      "Dans balett",
+      "Integration",
+      "Studieverksamhet",
+      "Litteratur",
+      "Pensionärsverksamhet",
+      "Patient och funktionshinders frågor",
+      "Dans hiphop",
+      "Ungdomsmusik"
+    ]
+  },
+  {
+    "id": 240,
+    "name": "Selånger SK Bandy",
+    "url": "http://www.selangerbandy.se/",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Skönsberg"], ["Korsta"], ["Petersvik"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Bandy"]
+  },
+  {
+    "id": 241,
+    "name": "Selånger SK Fotboll",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Granloholm"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Fotboll"]
+  },
+  {
+    "id": 242,
+    "name": "Selånger Skid- och Orienteringsklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Granloholm"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Orientering", "Längdskidåkning", "Skidorientering"]
+  },
+  {
+    "id": 243,
+    "name": "Selångers Hembygdsförening",
+    "url": "https//:www.hembygd.se/selangers-hembygdsforening.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Granloholm"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": ["Kulturmiljövård"]
+  },
+  {
+    "id": 245,
+    "name": "Senioruniversitetet i Sundsvall",
+    "url": "www.sus.org.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Centrum"]],
+    "category": ["Pensionärsförening"],
+    "activity": [
+      "Arrangör föreläsning",
+      "Studiecirklar",
+      "Pensionärsverksamhet"
+    ]
+  },
+  {
+    "id": 246,
+    "name": "Sensus Studieförbund Norrland",
+    "url": "www.sensus.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Distriktsförbund", "Studieförbund"],
+    "activity": [
+      "Arrangör ungdomskultur",
+      "Arrangör barnkultur",
+      "Arrangör konsert",
+      "Arrangör studieverksamhet",
+      "Arrangör föreläsning",
+      "Agility",
+      "Kör dam",
+      "Föreläsningsverksamhet",
+      "Mångkulturell verksamhet",
+      "Körverksamhet",
+      "Folkbildning",
+      "Jämställdhets och jämlikhetsarbete",
+      "Kör blandad",
+      "Kör ungdom",
+      "Musik",
+      "Hundverksamhet",
+      "Musik - ungdom",
+      "Studiecirklar",
+      "HBTQ-verksamhet",
+      "Kör barn",
+      "Musik orkestermusik",
+      "Integration",
+      "Studieverksamhet",
+      "Läxläsning",
+      "Kör man",
+      "Kurser",
+      "Ungdomsmusik"
+    ]
+  },
+  {
+    "id": 247,
+    "name": "Sidsjö Böle IF",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Sidsjö"], ["Böle"], ["Mårtensro"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Fotboll"]
+  },
+  {
+    "id": 2676,
+    "name": "Självförsvarssällskapet",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [["Södermalm"]],
+    "category": ["Idrottsförening"],
+    "activity": []
+  },
+  {
+    "id": 452,
+    "name": "SK 65 Sundsvall kommunanställdas fritidsförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 249,
+    "name": "SKB Sundsvall",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Skönsberg"], ["Korsta"], ["Petersvik"]],
+    "category": ["Idrottsförening", "Social förening"],
+    "activity": [
+      "Jämställdhets och jämlikhetsarbete",
+      "Social verksamhet",
+      "Motion",
+      "Innebandy",
+      "Integration",
+      "Parasport"
+    ]
+  },
+  {
+    "id": 2361,
+    "name": "Skellefteå AIK Hockey",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 250,
+    "name": "Skidklubben Vidar",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Nacksta"], ["Sallyhill"], ["Midälva"]],
+    "category": ["Fritidsförening"],
+    "activity": ["Friluftsverksamhet"]
+  },
+  {
+    "id": 4493,
+    "name": "Skogen i Skolan Västernorrland",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 251,
+    "name": "SKPF avd 215",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [["Centrum"]],
+    "category": ["Pensionärsförening"],
+    "activity": ["Pensionärsverksamhet"]
+  },
+  {
+    "id": 252,
+    "name": "SKPF avd 4 Sundsvall",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Pensionärsförening"],
+    "activity": []
+  },
+  {
+    "id": 3095,
+    "name": "Skvaderns Skolidrottsförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20"],
+    "area": [["Haga"]],
+    "category": ["Idrottsförening"],
+    "activity": [
+      "Bordtennis",
+      "Basket",
+      "Futsal",
+      "Dans ungdom",
+      "Fotboll",
+      "Hockey bockey",
+      "Styrketräning",
+      "Skridskosport",
+      "Motion",
+      "Innebandy",
+      "Frisbee",
+      "Volleyboll",
+      "Fäktning",
+      "Löpning",
+      "Spinning",
+      "Övrigt",
+      "Tennis",
+      "Yoga"
+    ]
+  },
+  {
+    "id": 253,
+    "name": "Sköns Tennisklubb",
+    "url": "www.lovetennis.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Södermalm"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Tennis"]
+  },
+  {
+    "id": 255,
+    "name": "Skönsbergs Biljardklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Fritidsförening"],
+    "activity": []
+  },
+  {
+    "id": 3153,
+    "name": "Skönsbergs Bouleklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Centrum"]],
+    "category": ["Fritidsförening"],
+    "activity": ["Boule"]
+  },
+  {
+    "id": 256,
+    "name": "Skönsbergs Brottningsklubb",
+    "url": "www.skönsbergsbrottarna.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Skönsberg"], ["Korsta"], ["Petersvik"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Brottning"]
+  },
+  {
+    "id": 257,
+    "name": "Sleipner Bergsåker",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Idrottsförening"],
+    "activity": []
+  },
+  {
+    "id": 2771,
+    "name": "Smålands Ishockeyförbund",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 258,
+    "name": "Solens IF",
+    "url": "laget.se/SolensIF",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Sundsbruk"], ["Finsta"], ["Birsta"], ["Ljustadalen"]],
+    "category": ["Idrottsförening"],
+    "activity": [
+      "Bowling",
+      "Social verksamhet",
+      "Styrketräning",
+      "Motion",
+      "Innebandy",
+      "Gymnastik",
+      "Integration",
+      "Frisbee",
+      "Parasport",
+      "Simning",
+      "Löpning"
+    ]
+  },
+  {
+    "id": 455,
+    "name": "Spectra Gospel",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [["Haga"]],
+    "category": ["Kulturförening"],
+    "activity": [
+      "Kör dam",
+      "Körverksamhet",
+      "Kör blandad",
+      "Kör ungdom",
+      "Musik",
+      "Musik - ungdom",
+      "Kör man",
+      "Övrigt"
+    ]
+  },
+  {
+    "id": 259,
+    "name": "SPF Seniorerna Freja",
+    "url": "https://www.spfseniorerna.se/distrikt/vasternorrlandsdistriktet/foreningslista/freja/",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Centrum"]],
+    "category": ["Pensionärsförening"],
+    "activity": [
+      "Bordtennis",
+      "Arrangör konsert",
+      "Arrangör studieverksamhet",
+      "Arrangör föreläsning",
+      "Körverksamhet",
+      "Folkbildning",
+      "Boule",
+      "Bowling",
+      "Bridge",
+      "Konstverksamhet",
+      "Kurser"
+    ]
+  },
+  {
+    "id": 260,
+    "name": "SPF Seniorerna Gaffelby Sundsvall",
+    "url": "https://www.spfseniorerna.se/distrikt/vasternorrlandsdistriktet/foreningslista/gaffelby/",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Centrum"]],
+    "category": ["Pensionärsförening"],
+    "activity": ["Social verksamhet"]
+  },
+  {
+    "id": 261,
+    "name": "SPF Seniorerna Marmen",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Matfors"], ["Vattjom"], ["Tuna"]],
+    "category": ["Distriktsförbund", "Sundsvalls kommun", "Pensionärsförening"],
+    "activity": [
+      "Fiskevård",
+      "Datakunskap",
+      "Friluftsverksamhet",
+      "Pensionärsverksamhet"
+    ]
+  },
+  {
+    "id": 262,
+    "name": "SPF Seniorerna Nivrén Njurunda",
+    "url": "spfseniorerna.se/nivren",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Pensionärsförening"],
+    "activity": ["Pensionärsverksamhet"]
+  },
+  {
+    "id": 264,
+    "name": "Stenstadens Volleybollklubb",
+    "url": "https://www.laget.se/StenstadensVolleyboll",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Nacksta"], ["Sallyhill"], ["Midälva"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Volleyboll"]
+  },
+  {
+    "id": 265,
+    "name": "Stenstan HC",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 456,
+    "name": "Stenstans Gymmix",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [["Granlo"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Gymnastik"]
+  },
+  {
+    "id": 266,
+    "name": "Stockviks Idrottsförening (tidigare FF)",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [["Bredsand"], ["Stockvik"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Fotboll"]
+  },
+  {
+    "id": 267,
+    "name": "Stockviks Skidförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Centrum"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Längdskidåkning", "Löpning", "Rullskidor"]
+  },
+  {
+    "id": 268,
+    "name": "Stockviksverkens Gymnastikklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 2628,
+    "name": "Strandparkens Biljardklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Bredsand"], ["Stockvik"]],
+    "category": ["Fritidsförening"],
+    "activity": ["Biljard"]
+  },
+  {
+    "id": 2351,
+    "name": "Street Rulers",
+    "url": "www.streetrulers.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Kvissleby"], ["Nolby"]],
+    "category": ["Fritidsförening"],
+    "activity": ["Bilsport", "Arrangör utställning"]
+  },
+  {
+    "id": 457,
+    "name": "Studentkåren i Sundsvall",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 269,
+    "name": "Studiefrämjandet Mitt",
+    "url": "www.studieframjandet.se/vasternorrland",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Studieförbund"],
+    "activity": [
+      "Arrangör ungdomskultur",
+      "Arrangör utställning",
+      "Arrangör barnkultur",
+      "Arrangör teater",
+      "Arrangör konsert",
+      "Arrangör studieverksamhet",
+      "Arrangör föreläsning",
+      "Fågelskådning",
+      "Föreläsningsverksamhet",
+      "Folkbildning",
+      "Musik",
+      "Långfärdsskridsko",
+      "Hundverksamhet",
+      "Studiecirklar",
+      "Konsthantverk",
+      "Friluftsverksamhet",
+      "Lokaluthyrning",
+      "Odling, växter",
+      "Studieverksamhet",
+      "Natur och miljö",
+      "Litteratur",
+      "Övrigt",
+      "Kurser",
+      "Jakt och vilt",
+      "Hantverk"
+    ]
+  },
+  {
+    "id": 270,
+    "name": "Studieförbundet Bilda Mitt",
+    "url": "www.bilda.nu",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Studieförbund"],
+    "activity": [
+      "Arrangör ungdomskultur",
+      "Arrangör utställning",
+      "Arrangör barnkultur",
+      "Arrangör teater",
+      "Arrangör konsert",
+      "Arrangör studieverksamhet",
+      "Arrangör föreläsning",
+      "Föreläsningsverksamhet",
+      "Mångkulturell verksamhet",
+      "Dans ungdom",
+      "Körverksamhet",
+      "Folkbildning",
+      "Jämställdhets och jämlikhetsarbete",
+      "Filmvisning",
+      "Musik",
+      "Scouting",
+      "Musik - ungdom",
+      "Studiecirklar",
+      "HBTQ-verksamhet",
+      "Konsthantverk",
+      "Musik folkmusik",
+      "Datakunskap",
+      "Konstverksamhet",
+      "Språk",
+      "Fredsarbete",
+      "Qigong",
+      "Integration",
+      "Hälsa och kost",
+      "Studieverksamhet",
+      "Litteratur",
+      "Pensionärsverksamhet",
+      "Kurser",
+      "Teater amatör",
+      "Ungdomsmusik",
+      "Dans kurser",
+      "Hantverk"
+    ]
+  },
+  {
+    "id": 271,
+    "name": "Studieförbundet Vuxenskolan",
+    "url": "www.sv.se/vasternorrland",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Studieförbund"],
+    "activity": [
+      "Arrangör marknad",
+      "Arrangör ungdomskultur",
+      "Arrangör utställning",
+      "Arrangör teater",
+      "Arrangör konsert",
+      "Arrangör studieverksamhet",
+      "Arkiv",
+      "Arrangör föreläsning",
+      "Dans folkdans",
+      "Föreläsningsverksamhet",
+      "Körverksamhet",
+      "Folkbildning",
+      "Dans linedance",
+      "Musik - ungdom",
+      "Studiecirklar",
+      "Konsthantverk",
+      "Konstverksamhet",
+      "Språk",
+      "Integration",
+      "Vävning",
+      "Hälsa och kost",
+      "Studieverksamhet",
+      "Övrigt",
+      "Trädgård",
+      "Pensionärsverksamhet",
+      "Patient och funktionshinders frågor",
+      "Yoga",
+      "Hembygdsverksamhet"
+    ]
+  },
+  {
+    "id": 272,
+    "name": "Stöde Form Ideell Förening",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [["Stöde"], ["Fanbyn"], ["Viskan"], ["Nedansjö"]],
+    "category": ["Kulturförening"],
+    "activity": ["Hantverk"]
+  },
+  {
+    "id": 273,
+    "name": "Stöde Hembygdsförening",
+    "url": "www.huberget.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Stöde"], ["Fanbyn"], ["Viskan"], ["Nedansjö"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": ["Historisk/kulturhistorisk verksamhet", "Hembygdsverksamhet"]
+  },
+  {
+    "id": 274,
+    "name": "Stöde IF",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Stöde"], ["Fanbyn"], ["Viskan"], ["Nedansjö"]],
+    "category": ["Idrottsförening"],
+    "activity": [
+      "Arrangör marknad",
+      "Fotboll",
+      "Vattengympa",
+      "Längdskidåkning",
+      "Tennis"
+    ]
+  },
+  {
+    "id": 275,
+    "name": "Stöde Scoutkår",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20"],
+    "area": [["Stöde"], ["Fanbyn"], ["Viskan"], ["Nedansjö"]],
+    "category": ["Fritidsförening"],
+    "activity": ["Scouting", "Friluftsverksamhet"]
+  },
+  {
+    "id": 8,
+    "name": "Afghanska kulturföreningen",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 277,
+    "name": "Sund Idrottsförening",
+    "url": "sundif.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Sundsbruk"], ["Finsta"], ["Birsta"], ["Ljustadalen"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Fotboll"]
+  },
+  {
+    "id": 278,
+    "name": "Sundsvall Baseboll Softboll Club Mosquitoes",
+    "url": "www.mosquitoes.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Skönsmon"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Baseboll", "Softboll"]
+  },
+  {
+    "id": 279,
+    "name": "Sundsvall Biathlon",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Sundsbruk"], ["Finsta"], ["Birsta"], ["Ljustadalen"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Skidskytte"]
+  },
+  {
+    "id": 3716,
+    "name": "Sundsvall Blue Heroes BBK",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Centrum"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Basket"]
+  },
+  {
+    "id": 280,
+    "name": "Sundsvall City IBC Ungdom",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Östermalm"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Innebandy"]
+  },
+  {
+    "id": 4296,
+    "name": "Sundsvall Cornhole",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 281,
+    "name": "Sundsvall Demolition Rollers",
+    "url": "https://www.svenskalag.se/sundsvallrollerderby",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Centrum"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Roller derby"]
+  },
+  {
+    "id": 282,
+    "name": "Sundsvall FBC (Elit)",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [["Centrum"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Innebandy"]
+  },
+  {
+    "id": 283,
+    "name": "Sundsvall FBC Ungdom",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20"],
+    "area": [["Sundsbruk"], ["Finsta"], ["Birsta"], ["Ljustadalen"]],
+    "category": ["Distriktsförbund", "Idrottsförening"],
+    "activity": ["Innebandy"]
+  },
+  {
+    "id": 4478,
+    "name": "Sundsvall Freeride Förening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Sidsjö"], ["Böle"], ["Mårtensro"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Alpint", "Snowbord"]
+  },
+  {
+    "id": 284,
+    "name": "Sundsvall Granloholms Bollklubb (GBK)",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Kovland"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Innebandy"]
+  },
+  {
+    "id": 285,
+    "name": "Sundsvall Makers",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Centrum"]],
+    "category": ["Kulturförening", "Fritidsförening"],
+    "activity": [
+      "Arrangör ungdomskultur",
+      "Brädspel",
+      "Föreläsningsverksamhet",
+      "Folkbildning",
+      "Jämställdhets och jämlikhetsarbete",
+      "Konsthantverk",
+      "Datakunskap",
+      "Integration",
+      "Modellbygge",
+      "Kurser",
+      "Hantverk"
+    ]
+  },
+  {
+    "id": 286,
+    "name": "Sundsvall Medelpads Strokeförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Centrum"]],
+    "category": ["Patient- & funktionshindersförening"],
+    "activity": [
+      "Arrangör studieverksamhet",
+      "Arrangör föreläsning",
+      "Föreläsningsverksamhet",
+      "Folkbildning",
+      "Musik",
+      "Social verksamhet",
+      "Studiecirklar",
+      "Övrigt",
+      "Pensionärsverksamhet"
+    ]
+  },
+  {
+    "id": 287,
+    "name": "Sundsvall Njurunda Båtklubb",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Kvissleby"], ["Nolby"]],
+    "category": ["Fritidsförening"],
+    "activity": ["Segling"]
+  },
+  {
+    "id": 288,
+    "name": "Sundsvall Padelklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Sundsbruk"], ["Finsta"], ["Birsta"], ["Ljustadalen"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Padel"]
+  },
+  {
+    "id": 289,
+    "name": "Sundsvall-Ortvikens Bågskytteklubb",
+    "url": "sobk.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Skönsmon"]],
+    "category": ["Förening med samlingslokal", "Idrottsförening"],
+    "activity": ["Bågskytte"]
+  },
+  {
+    "id": 290,
+    "name": "Sundsvalls  Volleybollklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Idrottsförening"],
+    "activity": []
+  },
+  {
+    "id": 291,
+    "name": "Sundsvalls Afasiförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Fritidsförening", "Patient- & funktionshindersförening"],
+    "activity": [
+      "Social verksamhet",
+      "Studiecirklar",
+      "Humanitär verksamhet",
+      "Övrigt"
+    ]
+  },
+  {
+    "id": 292,
+    "name": "Sundsvalls AFF Flames",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [["Östermalm"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Amerikanskfotboll"]
+  },
+  {
+    "id": 293,
+    "name": "Sundsvalls Asylkommitté",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Centrum"]],
+    "category": ["Social förening"],
+    "activity": ["Övrigt"]
+  },
+  {
+    "id": 294,
+    "name": "Sundsvalls Atletik- och idrottsklubb (SAIK)",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Centrum"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Brottning", "Övrigt"]
+  },
+  {
+    "id": 295,
+    "name": "Sundsvalls Atletklubb",
+    "url": "www.sundsvallsatletklubb.se",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [["Centrum"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Styrketräning", "Styrkelyft", "Tyngdlyftning"]
+  },
+  {
+    "id": 296,
+    "name": "Sundsvalls Bangolfklubb",
+    "url": "www.sundsvallsbgk.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Granlo"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Bangolf"]
+  },
+  {
+    "id": 297,
+    "name": "Sundsvalls Biljardklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Centrum"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Biljard"]
+  },
+  {
+    "id": 4481,
+    "name": "Sundsvalls Biodlareförening",
+    "url": "sundsvallsbiodlare.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Kulturförening"],
+    "activity": [
+      "Arrangör marknad",
+      "Arrangör utställning",
+      "Arrangör studieverksamhet",
+      "Arrangör föreläsning",
+      "Föreläsningsverksamhet",
+      "Studieverksamhet",
+      "Natur och miljö"
+    ]
+  },
+  {
+    "id": 298,
+    "name": "Sundsvalls Blåsorkester",
+    "url": "sundsvallsblasorkester.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Centrum"]],
+    "category": ["Kulturförening"],
+    "activity": ["Musik blåsmusik"]
+  },
+  {
+    "id": 299,
+    "name": "Sundsvalls Boxningsklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Centrum"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Boxning"]
+  },
+  {
+    "id": 300,
+    "name": "Sundsvalls Brukshundklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Fritidsförening"],
+    "activity": ["Hundverksamhet"]
+  },
+  {
+    "id": 301,
+    "name": "Sundsvalls Budoklubb",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Idrottsförening"],
+    "activity": []
+  },
+  {
+    "id": 302,
+    "name": "Sundsvalls Curlingklubb",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Idrottsförening"],
+    "activity": []
+  },
+  {
+    "id": 459,
+    "name": "Sundsvalls Cyklisterna",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 303,
+    "name": "Sundsvalls Damfotbollsförening (SDFF)",
+    "url": "sundsvallsdff.sportadmin.se/start/?ID=369741",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Nacksta"], ["Sallyhill"], ["Midälva"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Fotboll"]
+  },
+  {
+    "id": 304,
+    "name": "Sundsvalls Demensförening",
+    "url": "demensforbundet.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Patient- & funktionshindersförening"],
+    "activity": [
+      "Föreläsningsverksamhet",
+      "Social verksamhet",
+      "Studiecirklar",
+      "Hälsa och kost",
+      "Studieverksamhet",
+      "Patient och funktionshinders frågor"
+    ]
+  },
+  {
+    "id": 3430,
+    "name": "Sundsvalls Filmstudio",
+    "url": "https://sundsvall.filmstudio.se/",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [["Centrum"]],
+    "category": ["Kulturförening"],
+    "activity": ["Filmvisning"]
+  },
+  {
+    "id": 306,
+    "name": "Sundsvalls Folkdansgille",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 307,
+    "name": "Sundsvalls Fotbollsförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Skönsberg"], ["Korsta"], ["Petersvik"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Futsal", "Fotboll"]
+  },
+  {
+    "id": 308,
+    "name": "Sundsvalls Friidrottsförening",
+    "url": "www.svenskalag.se/sundsvallsfi",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Sundsbruk"], ["Finsta"], ["Birsta"], ["Ljustadalen"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Friidrott"]
+  },
+  {
+    "id": 309,
+    "name": "Sundsvalls Frisbeeförening",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Idrottsförening"],
+    "activity": []
+  },
+  {
+    "id": 310,
+    "name": "Sundsvalls Fäktklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Sidsjö"], ["Böle"], ["Mårtensro"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Fäktning"]
+  },
+  {
+    "id": 311,
+    "name": "Sundsvalls Fältrittklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Sundsbruk"], ["Finsta"], ["Birsta"], ["Ljustadalen"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Ridskola", "Ridsport"]
+  },
+  {
+    "id": 312,
+    "name": "Sundsvalls Golfklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Essvik"], ["Skottsund"], ["Nyland"], ["Juniskär"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Golf"]
+  },
+  {
+    "id": 313,
+    "name": "Sundsvalls Handbollsklubb",
+    "url": "https://www.svenskalag.se/sundsvallhk",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Sidsjö"], ["Böle"], ["Mårtensro"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Handboll"]
+  },
+  {
+    "id": 314,
+    "name": "Sundsvalls Hung Gar Klubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Nacksta"], ["Sallyhill"], ["Midälva"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Wushu Kung-Fu"]
+  },
+  {
+    "id": 315,
+    "name": "Sundsvalls Innebandyförening (IBF)",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Södermalm"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Innebandy"]
+  },
+  {
+    "id": 316,
+    "name": "Sundsvalls Kattklubb",
+    "url": "www.sundsvallskattklubb.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Fritidsförening"],
+    "activity": [
+      "Arrangör utställning",
+      "Arrangör föreläsning",
+      "Föreläsningsverksamhet",
+      "Folkbildning",
+      "Djurvård",
+      "Övrigt"
+    ]
+  },
+  {
+    "id": 317,
+    "name": "Sundsvalls Klätterklubb",
+    "url": "www.sundsvallsklatterklubb.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Norra kajen"], ["Rosenborgskajen"], ["Inre Hamnen"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Klättring"]
+  },
+  {
+    "id": 318,
+    "name": "Sundsvalls Kollektivverkstad",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Sidsjö"], ["Böle"], ["Mårtensro"]],
+    "category": ["Kulturförening", "Fritidsförening"],
+    "activity": ["Konstverksamhet"]
+  },
+  {
+    "id": 319,
+    "name": "Sundsvalls Konstförening",
+    "url": "https://sundsvallskonstforening.se/",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Centrum"]],
+    "category": ["Kulturförening"],
+    "activity": ["Arrangör utställning"]
+  },
+  {
+    "id": 320,
+    "name": "Sundsvalls Konståkningsklubb",
+    "url": "www.sundsvallskonstakning.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Skönsberg"], ["Korsta"], ["Petersvik"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Konståkning"]
+  },
+  {
+    "id": 2438,
+    "name": "Sundsvalls Linedance klubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Fritidsförening"],
+    "activity": ["Dans linedance"]
+  },
+  {
+    "id": 321,
+    "name": "Sundsvalls Orienteringsklubb (SOK)",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Nacksta"], ["Sallyhill"], ["Midälva"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Orientering", "Skidorientering"]
+  },
+  {
+    "id": 322,
+    "name": "Sundsvalls Orkesterförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Kvissleby"], ["Nolby"]],
+    "category": ["Kulturförening"],
+    "activity": ["Musik orkestermusik"]
+  },
+  {
+    "id": 323,
+    "name": "Sundsvalls Ridklubb",
+    "url": "sundsvallsrk.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Bergsåker"], ["Lillhällom"], ["Österro"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Ridskola", "Ridsport"]
+  },
+  {
+    "id": 324,
+    "name": "Sundsvalls Rödakorskrets",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Social förening"],
+    "activity": []
+  },
+  {
+    "id": 325,
+    "name": "Sundsvalls Schacksällskap",
+    "url": "www.sundsvallsschack.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Förening med samlingslokal", "Fritidsförening"],
+    "activity": ["Schack"]
+  },
+  {
+    "id": 326,
+    "name": "Sundsvalls Simsällskap",
+    "url": "www.sundsvallsss.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Alnö"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Parasport", "Simning"]
+  },
+  {
+    "id": 327,
+    "name": "Sundsvalls Skridskoklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Idrottsförening"],
+    "activity": [
+      "Långfärdsskridsko",
+      "Skridskosport",
+      "Motion",
+      "Övrigt",
+      "Rullskridsko"
+    ]
+  },
+  {
+    "id": 328,
+    "name": "Sundsvalls Skytteallians",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Sundsbruk"], ["Finsta"], ["Birsta"], ["Ljustadalen"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Skytte"]
+  },
+  {
+    "id": 329,
+    "name": "Sundsvalls Slalomklubb",
+    "url": "sslk.y.s",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20"],
+    "area": [["Skönsmon"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Alpint", "Cykelsport"]
+  },
+  {
+    "id": 330,
+    "name": "Sundsvalls Sportdykarklubb Lagun",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Fritidsförening"],
+    "activity": []
+  },
+  {
+    "id": 331,
+    "name": "Sundsvalls Sportfiskeklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Sidsjö"], ["Böle"], ["Mårtensro"]],
+    "category": ["Fritidsförening"],
+    "activity": ["Fiske", "Casting"]
+  },
+  {
+    "id": 2653,
+    "name": "Sundsvalls Squash Club",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Haga"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Squash"]
+  },
+  {
+    "id": 332,
+    "name": "Sundsvalls Stadscirkus",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Skönsberg"], ["Korsta"], ["Petersvik"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Cirkus"]
+  },
+  {
+    "id": 333,
+    "name": "Sundsvalls Stadsrevy",
+    "url": "www.sundsvallsstadsrevy.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Centrum"]],
+    "category": ["Kulturförening"],
+    "activity": ["Revy"]
+  },
+  {
+    "id": 334,
+    "name": "Sundsvalls Taekwondoklubb",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Idrottsförening"],
+    "activity": []
+  },
+  {
+    "id": 335,
+    "name": "Sundsvalls Tennisklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Skönsberg"], ["Korsta"], ["Petersvik"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Padel", "Tennis"]
+  },
+  {
+    "id": 1640,
+    "name": "Sundsvallsbridgen",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Fritidsförening"],
+    "activity": []
+  },
+  {
+    "id": 336,
+    "name": "Sundsvallsgymnasterna Jaktfalken",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Sundsbruk"], ["Finsta"], ["Birsta"], ["Ljustadalen"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Gymnastik"]
+  },
+  {
+    "id": 337,
+    "name": "Sunnås Byalag",
+    "url": "https://www.facebook.com/profile.php?id=100077274402359&sk=about",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Liden"], ["Holm"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": ["Hembygdsverksamhet"]
+  },
+  {
+    "id": 338,
+    "name": "Svartviks IF",
+    "url": "https://www.svenskalag.se/svartviksif",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Förening med samlingslokal", "Idrottsförening"],
+    "activity": ["Fotboll"]
+  },
+  {
+    "id": 339,
+    "name": "Svartviks Kulturarv Svartviksdagarna",
+    "url": "Svartvikskulturarv.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Kvissleby"], ["Nolby"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": [
+      "Arrangör föreläsning",
+      "Historisk/kulturhistorisk verksamhet",
+      "Studiecirklar",
+      "Arbetslivsmuseum",
+      "Övrigt",
+      "Hembygdsverksamhet"
+    ]
+  },
+  {
+    "id": 340,
+    "name": "Swedish Hot Rod Association (SHRA)",
+    "url": "www.shrasundsvall.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Kvissleby"], ["Nolby"]],
+    "category": ["Förening med samlingslokal", "Idrottsförening"],
+    "activity": [
+      "Bilsport Dragracing",
+      "Bilsport",
+      "Bilsport Miniracing",
+      "Karting",
+      "Dragracing"
+    ]
+  },
+  {
+    "id": 4195,
+    "name": "Svenska Badmintonförbundet",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 341,
+    "name": "Svenska Deckarfestivalen i Sundsvall",
+    "url": "https://www.svenskadeckarfestivalen.se/",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Centrum"]],
+    "category": ["Kulturförening"],
+    "activity": ["Litteratur"]
+  },
+  {
+    "id": 342,
+    "name": "Svenska Folkdansringen Medelpad",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Distriktsförbund", "Kulturförening"],
+    "activity": ["Dans folkdans", "Musik folkmusik", "Dans kurser"]
+  },
+  {
+    "id": 461,
+    "name": "Sverigedemokraterna Sundsvall",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 6,
+    "name": "ABF Västernorrland",
+    "url": "vasternorrland.abf.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Studieförbund"],
+    "activity": [
+      "Arrangör ungdomskultur",
+      "Arrangör barnkultur",
+      "Arrangör teater",
+      "Arrangör utställning",
+      "Arrangör konsert",
+      "Arrangör studieverksamhet",
+      "Arrangör föreläsning",
+      "Föreläsningsverksamhet",
+      "Körverksamhet",
+      "Folkbildning",
+      "Jämställdhets och jämlikhetsarbete",
+      "Kör blandad",
+      "Musik",
+      "Historisk/kulturhistorisk verksamhet",
+      "Släktforskning",
+      "Studiecirklar",
+      "HBTQ-verksamhet",
+      "Forskning",
+      "Teater barn",
+      "Teater ungdom",
+      "Språk",
+      "Studieverksamhet",
+      "Litteratur",
+      "Trädgård",
+      "Pensionärsverksamhet",
+      "Kurser",
+      "Teater amatör",
+      "Dans kurser",
+      "Hantverk"
+    ]
+  },
+  {
+    "id": 3966,
+    "name": "Sveriges Oberoende Bryggerier",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 4013,
+    "name": "Sverresborg Fotball",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 463,
+    "name": "Swesom",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 343,
+    "name": "Synskadades Riksförbund SRF Sundsvall",
+    "url": "https://www.srf.nu/distrikt-och-branschforeningar/distrikt/srf-vasternorrland/lokalforeningar/srf-sundsvall/",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Centrum"]],
+    "category": ["Patient- & funktionshindersförening"],
+    "activity": ["Patient och funktionshinders frågor"]
+  },
+  {
+    "id": 464,
+    "name": "Syskonskapförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 344,
+    "name": "Sågvikens Bygdeförening",
+    "url": "www.sagviken.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Stöde"], ["Fanbyn"], ["Viskan"], ["Nedansjö"]],
+    "category": ["Förening med samlingslokal", "Kulturförening"],
+    "activity": [
+      "Arrangör konsert",
+      "Arrangör studieverksamhet",
+      "Musik",
+      "Vandring",
+      "Lokaluthyrning",
+      "Hembygdsverksamhet",
+      "Hantverk"
+    ]
+  },
+  {
+    "id": 345,
+    "name": "Sällskapet Ostkustbanans Vänner",
+    "url": "okbv@okbv.se",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [["Svartvik"], ["Vapelnäs"], ["Hemmanet"]],
+    "category": ["Kulturförening"],
+    "activity": ["Övrigt"]
+  },
+  {
+    "id": 346,
+    "name": "Sättna Scoutkår",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Fritidsförening"],
+    "activity": []
+  },
+  {
+    "id": 347,
+    "name": "Södermalms Scoutkår",
+    "url": "www.scout-sundsvall.scout.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20"],
+    "area": [["Sidsjö"], ["Böle"], ["Mårtensro"]],
+    "category": ["Fritidsförening"],
+    "activity": ["Scouting"]
+  },
+  {
+    "id": 4672,
+    "name": "Södra Norrlands Friidrottsförbund",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 465,
+    "name": "Söråkers FF",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 2884,
+    "name": "Söråkers IF",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 43,
+    "name": "Böloms Bygdegårdsförening",
+    "url": "www.bolom.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Lucksta"], ["Attmar"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": [
+      "Arrangör marknad",
+      "Arrangör barnkultur",
+      "Arrangör teater",
+      "Arrangör konsert",
+      "Arrangör studieverksamhet",
+      "Filmvisning",
+      "Lokaluthyrning"
+    ]
+  },
+  {
+    "id": 349,
+    "name": "Tandhälsoförbundet Sundsvall",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [["Centrum"]],
+    "category": [],
+    "activity": ["Humanitär verksamhet"]
+  },
+  {
+    "id": 350,
+    "name": "Teleseniorernas förening i Sundsvall",
+    "url": "teleseniorerna-sundsvall.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Centrum"]],
+    "category": ["Pensionärsförening"],
+    "activity": ["Övrigt", "Pensionärsverksamhet"]
+  },
+  {
+    "id": 467,
+    "name": "Telia IF",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 351,
+    "name": "The Agency",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [["Centrum"]],
+    "category": [
+      "Förening med samlingslokal",
+      "Kulturförening",
+      "Fritidsförening",
+      "Social förening"
+    ],
+    "activity": [
+      "Arrangör föreläsning",
+      "Dans ungdom",
+      "Folkbildning",
+      "Jämställdhets och jämlikhetsarbete",
+      "Filmvisning",
+      "Social verksamhet",
+      "HBTQ-verksamhet",
+      "Konstverksamhet",
+      "Nykterhet",
+      "Rollspel",
+      "Övrigt"
+    ]
+  },
+  {
+    "id": 352,
+    "name": "Tillväxtlabbet.com",
+    "url": "www.tillvaxtlabbet.com",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [["Östermalm"]],
+    "category": ["Fritidsförening"],
+    "activity": [
+      "Arrangör marknad",
+      "Arrangör studieverksamhet",
+      "Arrangör föreläsning"
+    ]
+  },
+  {
+    "id": 468,
+    "name": "Timrå AIF",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 469,
+    "name": "Timrå IBC",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 348,
+    "name": "Söröje Bygdeförening",
+    "url": "soroje.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Förening med samlingslokal"],
+    "activity": [
+      "Föreläsningsverksamhet",
+      "Fotboll",
+      "Boule",
+      "Lokaluthyrning",
+      "Pensionärsverksamhet",
+      "Dans kurser",
+      "Hembygdsverksamhet"
+    ]
+  },
+  {
+    "id": 353,
+    "name": "Tjejjouren Skogsrå",
+    "url": "www.tjejjourenskogsra.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20"],
+    "area": [["Centrum"]],
+    "category": ["Social förening"],
+    "activity": ["Jämställdhets och jämlikhetsarbete", "Social verksamhet"]
+  },
+  {
+    "id": 354,
+    "name": "Tors Hammarkör",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Kulturförening"],
+    "activity": ["Arrangör teater", "Körverksamhet", "Teater amatör"]
+  },
+  {
+    "id": 355,
+    "name": "Trolldansarna",
+    "url": "trolldansarna.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [["Bergsåker"], ["Lillhällom"], ["Österro"]],
+    "category": ["Fritidsförening"],
+    "activity": ["Dans kurser"]
+  },
+  {
+    "id": 3244,
+    "name": "Timrå IK",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 357,
+    "name": "Tropical Sundsvall",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Idrottsförening"],
+    "activity": []
+  },
+  {
+    "id": 358,
+    "name": "Träpatronerna Prostatacancerförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Centrum"]],
+    "category": ["Patient- & funktionshindersförening"],
+    "activity": ["Patient och funktionshinders frågor"]
+  },
+  {
+    "id": 359,
+    "name": "Tuna Hembygdsförening",
+    "url": "www.hembygd.se/medelpad-tuna",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Matfors"], ["Vattjom"], ["Tuna"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": [
+      "Historisk/kulturhistorisk verksamhet",
+      "Musik folkmusik",
+      "Hembygdsverksamhet"
+    ]
+  },
+  {
+    "id": 360,
+    "name": "Töva Motions- och Ungdomsklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20"],
+    "area": [["Bergsåker"], ["Lillhällom"], ["Österro"]],
+    "category": ["Idrottsförening"],
+    "activity": [
+      "Ishockey",
+      "Motion",
+      "Lokaluthyrning",
+      "Ridsport",
+      "Övrigt",
+      "Hembygdsverksamhet"
+    ]
+  },
+  {
+    "id": 361,
+    "name": "Ulvsjöns Folkets Husförening",
+    "url": "www.ulvsjon.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Stöde"], ["Fanbyn"], ["Viskan"], ["Nedansjö"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": [
+      "Arrangör utställning",
+      "Arrangör teater",
+      "Agility",
+      "Dans ungdom",
+      "Friluftsverksamhet",
+      "Lokaluthyrning",
+      "Skoter",
+      "Övrigt",
+      "Hembygdsverksamhet"
+    ]
+  },
+  {
+    "id": 3449,
+    "name": "Umeå IK FF",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 3323,
+    "name": "UNIPER Seniorklubb Sundsvall",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 362,
+    "name": "Uslands Skolidrottsförening",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20"],
+    "area": [["Alnö"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Övrigt"]
+  },
+  {
+    "id": 363,
+    "name": "Uteliv i Nora",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Fritidsförening"],
+    "activity": []
+  },
+  {
+    "id": 3990,
+    "name": "Vallentuna Hockey",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 364,
+    "name": "Vandrarklubben Uvarna",
+    "url": "vkuvarna.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Matfors"], ["Vattjom"], ["Tuna"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Orientering"]
+  },
+  {
+    "id": 365,
+    "name": "Vattjoms Idrottsklubb",
+    "url": "Laget.se/vattjomsik",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Matfors"], ["Vattjom"], ["Tuna"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Innebandy"]
+  },
+  {
+    "id": 367,
+    "name": "Vetten Alpina Idrottsförening",
+    "url": "www.vetten.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Liden"], ["Holm"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Alpint"]
+  },
+  {
+    "id": 2571,
+    "name": "Vickans Vipers",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 368,
+    "name": "Widelake Friluftsförening",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Indal"], ["Kävsta"], ["Östanskär"]],
+    "category": ["Fritidsförening"],
+    "activity": ["Skoter"]
+  },
+  {
+    "id": 369,
+    "name": "Vigge intresseförening",
+    "url": "viggeinfo.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Stöde"], ["Fanbyn"], ["Viskan"], ["Nedansjö"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": [
+      "Historisk/kulturhistorisk verksamhet",
+      "Lokaluthyrning",
+      "Natur och miljö",
+      "Hembygdsverksamhet"
+    ]
+  },
+  {
+    "id": 370,
+    "name": "Vike Ideella Intresseförening",
+    "url": "https://www.holmbygden.se/foreningar/vike-ideella-intresseforening/",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [["Liden"], ["Holm"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": ["Lokaluthyrning"]
+  },
+  {
+    "id": 4379,
+    "name": "Visby IBK",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 371,
+    "name": "Vision Pensionärssektion 36 i Medelpad",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Centrum"]],
+    "category": ["Pensionärsförening"],
+    "activity": [
+      "Föreläsningsverksamhet",
+      "Folkbildning",
+      "Musik",
+      "Övrigt",
+      "Hembygdsverksamhet"
+    ]
+  },
+  {
+    "id": 3370,
+    "name": "Vorstehklubben Jämtlandvästernorrland",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 477,
+    "name": "Vox Viva",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 372,
+    "name": "Vuxna på stan Sundsvall",
+    "url": "vuxnapastan.com",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Centrum"]],
+    "category": ["Social förening"],
+    "activity": ["Social verksamhet", "Övrigt"]
+  },
+  {
+    "id": 2304,
+    "name": "Vägen Hem - Barn Av Vår Tid",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["13 till 20", "21+"],
+    "area": [["Centrum"]],
+    "category": ["Social förening"],
+    "activity": [
+      "Folkbildning",
+      "Social verksamhet",
+      "Humanitär verksamhet",
+      "Nykterhet",
+      "Odling, växter",
+      "Studieverksamhet"
+    ]
+  },
+  {
+    "id": 374,
+    "name": "Vänskapsmöten",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Centrum"]],
+    "category": ["Social förening"],
+    "activity": ["Social verksamhet"]
+  },
+  {
+    "id": 375,
+    "name": "Västanå-Korsåmons Bygdegårdsförening",
+    "url": "https://www.facebook.com/groups/116737765424744.",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Liden"], ["Holm"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": ["Hembygdsverksamhet"]
+  },
+  {
+    "id": 479,
+    "name": "Västernorrlands Innebandyförbund",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Distriktsförbund"],
+    "activity": []
+  },
+  {
+    "id": 356,
+    "name": "Trollrikets Skoterklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Fritidsförening"],
+    "activity": []
+  },
+  {
+    "id": 3212,
+    "name": "Växjö Lakers",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 377,
+    "name": "Ållateatern Sweden",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Centrum"]],
+    "category": ["Kulturförening"],
+    "activity": ["Teater amatör"]
+  },
+  {
+    "id": 482,
+    "name": "Ångermanlands Fotbollsförbund",
+    "url": null,
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Distriktsförbund"],
+    "activity": []
+  },
+  {
+    "id": 1767,
+    "name": "Ås IF",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 378,
+    "name": "Åsen-Kväcklinge byggnadsförening",
+    "url": "www.asen.nu och www.åsen.nu",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Liden"], ["Holm"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": [
+      "Föreläsningsverksamhet",
+      "Folkbildning",
+      "Hundverksamhet",
+      "Social verksamhet",
+      "Hundsport",
+      "Frisbee",
+      "Natur och miljö",
+      "Jakt och vilt",
+      "Hembygdsverksamhet"
+    ]
+  },
+  {
+    "id": 379,
+    "name": "Älva Sportryttarklubb",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Alnö"]],
+    "category": ["Idrottsförening"],
+    "activity": ["Ridsport"]
+  },
+  {
+    "id": 380,
+    "name": "Ängoms Bygdegård / Facklan ideell förening",
+    "url": "www.angomsbygdegard.dinstudio.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [
+      ["Njurundabommen"],
+      ["Klockarberget"],
+      ["Bergafjärden"],
+      ["Björkön"],
+      ["Lörudden"]
+    ],
+    "category": ["Förening med samlingslokal"],
+    "activity": ["Hembygdsverksamhet"]
+  },
+  {
+    "id": 381,
+    "name": "Östavalls IF",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": ["Idrottsförening"],
+    "activity": []
+  },
+  {
+    "id": 382,
+    "name": "Östermalms IF",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Östermalm"]],
+    "category": ["Fritidsförening"],
+    "activity": ["Skridskosport"]
+  },
+  {
+    "id": 4747,
+    "name": "Östers IF",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 3071,
+    "name": "Österåker United",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 276,
+    "name": "Sulåns Bygdeförening",
+    "url": "www.sulansbygdeforening.se",
+    "municipality": "Sundsvall",
+    "ageRange": ["0 till 12", "13 till 20", "21+"],
+    "area": [["Liden"], ["Holm"]],
+    "category": ["Förening med samlingslokal"],
+    "activity": [
+      "Arrangör utställning",
+      "Arrangör teater",
+      "Arrangör konsert",
+      "Arrangör studieverksamhet",
+      "Arrangör föreläsning",
+      "Filmvisning",
+      "Vävning",
+      "Studieverksamhet",
+      "Hembygdsverksamhet"
+    ]
+  },
+  {
+    "id": 1631,
+    "name": "Sverigedemokraterna Västernorrland",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": [],
+    "area": [],
+    "category": [],
+    "activity": []
+  },
+  {
+    "id": 376,
+    "name": "Vävstugan i Sundsvall",
+    "url": "",
+    "municipality": "Sundsvall",
+    "ageRange": ["21+"],
+    "area": [["Centrum"]],
+    "category": ["Kulturförening"],
+    "activity": ["Vävning"]
+  },
+  {
+    "id": 454,
+    "name": "ABF-FyrBoDal Alingsås",
+    "url": "www.abf.se/distrikt--avdelningar/abf-vastra-gotaland/abf-fyrbodal/kontakt/motesplatser/alingsas/",
+    "municipality": "Alingsås",
+    "ageRange": [],
+    "area": [["Alnö"]],
+    "category": ["Patient- & funktionshindersförening"],
+    "activity": ["Kampsport Shotokan"]
+  }
+]
